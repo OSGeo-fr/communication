@@ -1274,7 +1274,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.8892306"
-     inkscape:cx="196.80432"
+     inkscape:cx="197.86295"
      inkscape:cy="943.38746"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -1933,6 +1933,7 @@
      sodipodi:role="line"
      id="tspan1416" /></text>
 
+
 <text
    transform="scale(0.95346259,-1.0488088)"
    id="text1440"
@@ -1956,6 +1957,7 @@
      y="-492.05054"
      id="tspan5489">OSGeo prêt à vous aider avec: </tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1450"
@@ -1966,6 +1968,7 @@
      x="121.97685"
      y="-466.38464"
      id="tspan1452">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -1978,6 +1981,7 @@
      y="-466.96048"
      id="tspan1458">la gestion de l'information</tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1460"
@@ -1988,6 +1992,7 @@
      x="121.97685"
      y="-453.03119"
      id="tspan1462">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2000,6 +2005,7 @@
      y="-453.60706"
      id="tspan1468">la conversion  de données</tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1470"
@@ -2010,6 +2016,7 @@
      x="121.97685"
      y="-439.67776"
      id="tspan1472">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2022,6 +2029,7 @@
      y="-440.2536"
      id="tspan1478">la visualisation </tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1480"
@@ -2032,6 +2040,7 @@
      x="121.97685"
      y="-426.32434"
      id="tspan1482">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2044,6 +2053,7 @@
      y="-426.32434"
      sodipodi:role="line"
      id="tspan1486">l'analyse</tspan></text>
+
 
 <g
    id="g5651"
@@ -2058,6 +2068,7 @@
      y="-709.81451"
      x="582.15875 595.85828 602.61261 610.51227 613.71326 626.72266 634.9306 642.24292 649.55524 653.784 663.37225"
      style="font-size:14.68332386px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:The Sans Semi Bold;-inkscape-font-specification:TheSansSemiBold-Caps">Web Mapping</tspan></text>
+
 
 <g
    transform="translate(555.59938,740.5497)"
@@ -2133,6 +2144,7 @@
      sodipodi:role="line"
      style="font-size:10.40000057px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold" /></text>
 
+
 <text
    style="font-size:11.44155121px"
    y="-552.68463"
@@ -2144,6 +2156,7 @@
      id="tspan1512"
      sodipodi:role="line"
      style="font-size:14.68332386px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:The Sans Semi Bold;-inkscape-font-specification:TheSansSemiBold-Caps">Applications bureautiques</tspan></text>
+
 
 <g
    transform="matrix(1.554276,0,0,1,432.66069,577.3497)"
@@ -2174,6 +2187,7 @@
      sodipodi:role="line"
      style="font-size:10.39999962px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">Quantum GIS</tspan></text>
 
+
 <text
    style="font-size:11.44155121px"
    y="-490.89966"
@@ -2185,6 +2199,7 @@
      id="tspan1530"
      sodipodi:role="line"
      style="font-size:14.68332386px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:The Sans Semi Bold;-inkscape-font-specification:TheSansSemiBold-Caps">Bibliothèques géospatiales</tspan></text>
+
 
 <g
    transform="matrix(1.672473,0,0,1,428.5759,512.5497)"
@@ -2225,6 +2240,7 @@
      sodipodi:role="line"
      style="font-size:11.19999981px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">PostGIS</tspan></text>
 
+
 <text
    style="font-size:11.44155121px"
    y="-398.98572"
@@ -2236,6 +2252,7 @@
      id="tspan1550"
      sodipodi:role="line"
      style="font-size:14.68332386px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:The Sans Semi Bold;-inkscape-font-specification:TheSansSemiBold-Caps">Catalogue de métadonnées</tspan></text>
+
 
 <g
    transform="matrix(1.8576436,0,0,1,428.93971,416.1497)"
@@ -2256,6 +2273,7 @@
      sodipodi:role="line"
      style="font-size:11.19999981px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">Geonetwork</tspan></text>
 
+
 <text
    style="font-size:11.44155121px"
    y="-363.51691"
@@ -2267,6 +2285,7 @@
      id="tspan1562"
      sodipodi:role="line"
      style="font-size:14.68332386px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:The Sans Semi Bold;-inkscape-font-specification:TheSansSemiBold-Caps">Autres projets</tspan></text>
+
 
 <g
    transform="matrix(1.2055602,0,0,1,527.12406,378.9492)"
@@ -2297,6 +2316,7 @@
      sodipodi:role="line"
      style="font-size:11.19999981px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">OSGeo Live</tspan></text>
 
+
 </g><g
    id="g5627"
    transform="translate(9.6,0)"><text
@@ -2317,6 +2337,7 @@
      x="661.31403"
      style="font-size:12.24160004px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#54ac4e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">régions et langages</tspan></text>
 
+
 <text
    style="font-size:11.44155121px"
    y="-229.33846"
@@ -2328,6 +2349,7 @@
      y="-229.33846"
      x="590.90387"
      style="font-size:14.68332386px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:The Sans Semi Bold;-inkscape-font-specification:TheSansSemiBold-Caps">Régions:</tspan></text>
+
 
 <g
    transform="translate(569.90264,238.2227)"
@@ -2373,6 +2395,7 @@
      x="661.80219"
      style="font-size:11.20000648px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">Nouveau Mexique, Minneapolis)</tspan></text>
 
+
 <text
    style="font-size:11.22365189px"
    y="-118.34612"
@@ -2384,6 +2407,7 @@
      id="tspan1606"
      sodipodi:role="line"
      style="font-size:14.40368652px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:The Sans Semi Bold;-inkscape-font-specification:TheSansSemiBold-Caps">Langages</tspan></text>
+
 
 <g
    transform="translate(558.98764,124.2227)"
@@ -2414,6 +2438,7 @@
      x="662.44501"
      style="font-size:11.44155121px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">Espagnol et plus encore...</tspan></text>
 
+
 </g><text
    transform="scale(0.85503571,-1.1695418)"
    id="text1618"
@@ -2425,6 +2450,7 @@
      y="-52.099205"
      sodipodi:role="line"
      id="tspan1620">osgeo.org/local</tspan></text>
+
 
 <text
    transform="scale(0.95346259,-1.0488088)"
@@ -2463,6 +2489,7 @@
      y="-290.84698"
      id="tspan5557">données et des procédés interchangeables : </tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1636"
@@ -2473,6 +2500,7 @@
      x="122.50581"
      y="-269.79956"
      id="tspan1638">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2485,6 +2513,7 @@
      y="-269.7121"
      id="tspan1644">Cartographie sur le web  </tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1646"
@@ -2495,6 +2524,7 @@
      x="122.50581"
      y="-256.44614"
      id="tspan1648">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2507,6 +2537,7 @@
      y="-256.35864"
      id="tspan1654">Bibliothèques de programmation</tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1656"
@@ -2517,6 +2548,7 @@
      x="122.50581"
      y="-243.09271"
      id="tspan1658">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2529,6 +2561,7 @@
      y="-230.40256"
      id="tspan1664">Accès aux données et conversion</tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1666"
@@ -2539,6 +2572,7 @@
      x="122.50581"
      y="-229.73927"
      id="tspan1668">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2551,6 +2585,7 @@
      y="-243.58104"
      id="tspan1674">Traitement d'images </tspan></text>
 
+
 <text
    transform="scale(0.95346263,-1.0488088)"
    id="text1676"
@@ -2561,6 +2596,7 @@
      x="122.50581"
      y="-216.38583"
      id="tspan1678">•</tspan></text>
+
 
 <text
    transform="scale(0.95346263,-1.0488088)"
@@ -2574,6 +2610,7 @@
      x="133.08585"
      y="-216.38583">Spécifications OGC</tspan></text>
 
+
 <text
    transform="matrix(0.90909091,0,0,-1,538.1982,774.6162)"
    id="text1684"><tspan
@@ -2582,6 +2619,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan1686">Projets</tspan></text>
+
 
 <g
    id="g1688"
@@ -2652,6 +2690,7 @@
      style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#006fad;fill-opacity:0.95686275;font-family:Sans;-inkscape-font-specification:Sans Bold"
      id="tspan5326">Source Geospatial</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:12.80000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#61b25b;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -2664,7 +2703,7 @@
      x="187.35904"
      y="-725.01318"
      style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#61b25b;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
-     id="tspan5334">est un initiative sans but lucratif</tspan><tspan
+     id="tspan5334">est une initiative sans but lucratif</tspan><tspan
      sodipodi:role="line"
      x="187.35904"
      y="-709.89319"
@@ -2701,6 +2740,7 @@
      style="font-size:14.39999962px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523%;writing-mode:lr-tb;text-anchor:middle;fill:#61b25b;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
      id="tspan5364" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aed67f;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2714,5 +2754,6 @@
      x="32.179359"
      y="-611.10168"
      style="font-size:14.39999962px;font-weight:bold;fill:#aed67f;fill-opacity:1;-inkscape-font-specification:Sans Bold">tous libres à utiliser et rejoignez-nous</tspan></text>
+
 
 </g></svg>
