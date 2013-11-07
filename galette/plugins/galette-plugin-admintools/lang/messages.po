@@ -1,0 +1,112 @@
+#: ../admintools.php:87
+msgid "An error occured reinitializing fields configuration :("
+msgstr ""
+
+#: ../templates/default/admintools.tpl:36
+msgid "You should use that function if you can see strange characters in your datas; after a manual import, or if you've not used Galette's update scripts."
+msgstr ""
+
+#: ../admintools.php:85
+msgid "Fields configuration has been successfully reinitialized."
+msgstr ""
+
+#: ../admintools.php:65
+msgid "Database should have been successfully converted to UTF-8!"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:6 ../templates/default/admintools.tpl:30
+msgid "Make sure you've done a backup of the database before using any of the following tools!"
+msgstr ""
+
+#: ../templates/default/menu.tpl:4
+msgid "Various administrative tools"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:22
+msgid "Check PHP modules"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:48
+msgid "Modules report"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:10
+msgid "Reinitialize emails contents"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:4
+msgid "Content tools"
+msgstr ""
+
+#: ../admintools.php:75
+msgid "An error occured reinitializing texts :("
+msgstr ""
+
+#: ../templates/default/admintools.tpl:35
+msgid "Converts the whole database data to UTF-8, do not change anything on the tables, just proceed data conversion."
+msgstr ""
+
+#: ../templates/default/admintools.tpl:28
+msgid "Database tools"
+msgstr ""
+
+#: ../admintools.php:111
+msgid "Logins and passwords has been successfully filled (%i processed)."
+msgstr ""
+
+#: ../templates/default/admintools.tpl:34
+msgid "That function is available for MySQL installations only!"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:40
+msgid "Convert encoding"
+msgstr ""
+
+#: ../admintools.php:122
+msgid "Some PHP modules are missing. Please install them or contact your support.<br/>More informations on required modules may be found in the documentation."
+msgstr ""
+
+#: ../templates/default/admintools.tpl:17
+msgid "Generate values for empty logins and passwords"
+msgstr ""
+
+#: ../admintools.php:98
+msgid "An error occured reinitializing PDF models :("
+msgstr ""
+
+#: ../templates/default/menu.tpl:4
+msgid "Admin tools"
+msgstr ""
+
+#: ../admintools.php:114
+msgid "An error occured filling empty logins and passwords :("
+msgstr ""
+
+#: ../admintools.php:149
+msgid "Administration tools"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:12
+msgid "Reinitialize PDF models"
+msgstr ""
+
+#: ../templates/default/menu.tpl:2
+msgid "Admin Tools"
+msgstr ""
+
+#: ../templates/default/admintools.tpl:37
+msgid "That conversion stuff will read your entire database, and write back each non UTF-8 values after conversion; this may take a while."
+msgstr ""
+
+#: ../admintools.php:73
+msgid "Texts has been successfully reinitialized."
+msgstr ""
+
+#: ../templates/default/admintools.tpl:11
+msgid "Reinitialize fields configuration"
+msgstr ""
+
+#: ../admintools.php:96
+msgid "PDF models has been successfully reinitialized."
+msgstr ""
+

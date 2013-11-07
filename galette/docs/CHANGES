@@ -1,0 +1,417 @@
+Changes
+-------
+
+0.7.5.5 -> 0.7.5.6
+- configurable CSV imports
+- filter on non members
+- PostgreSQL >= 9.1
+- Remove UNSECURE_PASSWORD stuff
+- no longer show days remaining for disabled accounts
+- staff members cannot change thor own informations
+- no error was shown when removing a member failed
+- pdf memberd card was looking for loggged in user membership
+
+0.7.5.4 -> 0.7.5.5 (2013-10-12)
+- Super admin was not able to change some members fields
+
+0.7.5.3 -> 0.7.5.4 (2013-10-06)
+
+- fix a confusion on dynamic fields
+- member displayed twice when member of multiple groups with the same parent totally breaks members list under postgres. revert.
+- various fixes regarding group management and ACLs
+- remove new group button and add group member/manager for non admins/staff
+- fix a filtering issue on groups on some cases
+- do not try to remove a constraint that does not exists in postgres databases
+- restrict tempimages and tamplates_c directories access from web
+
+0.7.5.2 -> 0.7.5.3 (2013-09-18)
+- add group member or manager had disappear
+- a member part of two groups with same parent was displayed twice filtering on parent group
+- groups managers cannot edit member data
+- groups managers cannot display member photo
+
+0.7.5.1 -> 0.7.5.2 (2013-09-11)
+- fix a javascript issue adding dynamic field on contributions or transactions
+- add login in available reminders replacements
+- fix license in two files used for i18n
+
+0.7.5 -> 0.7.5.1 (2013-08-26)
+- fix groups PDF blank page
+- fis MySQL upgrade script issues
+- fix wrong interpreter path in post contribution test script
+- mails subejcts were too short
+- avoid undefined index when running from cron
+- improve post contribution JSON data
+- fix SQLite install script
+
+0.7.4.5 -> 0.7.5 (2013-08-08)
+
+- fixed empty export csv files export
+- fixed missing translation in history
+- add reminders text models
+- automate reminders sending
+- send reminders via cron jobs
+- add receipt and invoices for contributions, with customizable models
+- post contribution script call (file, get or post), for accouting storage
+- mailing now always contains a 'To' field to avoid mail blocking
+- amounts and contributions types now available on mail texts
+- new date and boolean dynamic fields
+- CSS printing override is now possible
+- twitter and google+ news has been removed from dashboard
+
+0.7.4.4 -> 0.7.4.5 (2013-07-05)
+
+- fix member removal without confirmation
+- update 3rd party libraries
+
+0.7.4.3 -> 0.7.4.4 (2013-06-30)
+
+- fix groups management from member record
+- prevent multiple message on delete button
+- do not use translated string when editing contributions labels
+- improve print stylesheet
+- disable member card generation for members that are not up to date
+
+0.7.4.2 -> 0.7.4.3 (2013-06-22)
+
+- contribution type was not correctly selected on second step
+- fix SQL error trying to search on multiple choice dynamic fields
+- check if language exists when loading texts, avoiding empty results
+- do not store overlaping contributions
+
+0.7.4.1 -> 0.7.4.2 (2013-05-11)
+
+- titles, statuses and genders are show as plain text in exports
+- fix public members list pagination
+- fix advanced search issue on contribution end dates
+
+0.7.4 -> 0.7.4.1 (2013-05-01)
+
+- tmp password too short
+- fix HTML issue on contribution end date in advanced search
+- reminders was sent to everyone
+- filtered member list CSV export was not limited to members table fields
+- fix various issues on filtered memberslist CSV export under MySQL
+- reimplement less secure password storage method for old PHP versions (Debian Squeeze)
+- titles in members table must be set as NOT NULL
+- required but missing PHP modules were not displayed
+- check for PHP mcrypt module at install time
+- query for advanced search was not displayed if there were no results
+- SQL issues on some advanced searches
+- fix minor bugs in preferences pages
+- while updating existing database, miss were taking 3rd sex
+- issues regarding false booleans under PostgreSQL
+- mailings in progress were no longer detected
+- change default CSV separator (as Excel does not seems to like commas)
+- filtered list CSV export did not take care of filter
+- download URL after an export was incorrect
+- rewrite fields configuration initialization and check
+- do not show remove button on not removable titles
+- bad column type for fields visibility under PostgreSQL
+- fix required but disabled fields
+- SQL issues at install under MySQL
+- long title were incorrect under MySQL
+
+0.7.3.2 -> 0.7.4 (2013-02-23)
+
+- titles management
+- search members from their contributions
+- export filtered members list as CSV
+- SQLite support
+- improved password storage
+- existing exports removal
+- separate first and last name in mailings texts
+- browse members in edition mode
+- order contributions and transactions list by date descending
+- charts generation
+- PDF list of members by groups
+- display informations on members state of dues
+- do not remove non member status
+- end of membershop date was incorrect if all members contributions has been removed
+- unable to remove a member
+- improve contirubtions interface if non member exist
+- logged users informations are now available for plugins
+- dynamic fields values were not stored from self subscription
+- lost password mail could only use HTTP, not HTTPS
+- retrieve required fields configuration updating from 0.7.3
+
+0.7.3.1 -> 0.7.3.2 (2013-01-19)
+
+- managed but non member groups were not displayed
+- password were reseted on member edition
+- add payment type on contribution initialization
+
+0.7.3 -> 0.7.3.1 (2013-01-05)
+
+- installation freezes
+- captcha image was not displayed
+- improved validation on fields management
+
+0.7.2.9 -> 0.7.3 (2013-01-01)
+
+Changes and additions
+^^^^^^^^^^^^^^^^^^^^^
+
+- fix dynamic fields translations
+- login and password can now be marked as not required
+- fields visibility configuration
+- advanced search
+- non existant dynamic translations are now created
+- public pages pagination
+
+Under the hood
+^^^^^^^^^^^^^^
+
+- replace logger
+
+0.7.2.7 -> 0.7.2.8 (2012-12-19)
+- major improvement on members lists
+
+0.7.2.6 -> 0.7.2.7 (2012-12-14)
+- groups members management was not available for managers
+- various issues regarding member's language
+- minor log issue
+
+0.7.2.5 -> 0.7.2.6
+- members selection from a new mailing
+- clear transactions filters
+- zipcode now does appear on members cards
+- fix various PHP notices
+
+0.7.2.4 -> 0.7.2.5 (2012-12-07)
+- PostgreSQL 8.4 compatibility
+
+0.7.2.3 -> 0.7.2.4 (2012-12-05)
+- plugins database instantiation issue
+
+0.7.2.2 -> 0.7.2.3 (2012-12-04)
+- prevent empty groups loading
+- list groups with PostgreSQL 8.4
+
+0.7.2.1 -> 0.7.2.2 (2012-11-21)
+
+- group filtering now search into first childs
+
+0.7.2 -> 0.7.2.1 (2012-11-19)
+
+- text dynamic fields were repeated undefinitely
+- choice dynamic fields were repeated undefinitely under MySQL
+
+0.7.1 -> 0.7.2 (2012-10-29)
+
+- rewrite dynamic fields in an object,
+- improve dynamic fields interface
+- properly detect curl module at install time
+- display URLs and mails in dynamic fields as hyperlinks
+- add a button to quickly send reminders to late members
+
+0.7.0 -> 0.7.1 (2012-10-06)
+
+Changes and additions
+^^^^^^^^^^^^^^^^^^^^^
+
+- groups filtering
+- improve installation tests
+- add a demo mode
+- fix html to text mailing conversion
+- possibility to override disabled fields
+- redesign installation pages
+- check plugin compatibility
+- improve transaction display
+- add system informations page
+- some fields were too short
+- filter on company name
+- limit staff statuses to only one member
+- fix entered dates i18n
+- improve IE8 display
+- fix transparent logo, and with unsupported format
+- fix plugins menu incorect path
+- fix plugins activation/desactivation refresh issue
+- now really uses mail() function
+- improve password reminder page
+- fix members list cotisations status ordering
+- fix dynamic fields display issues
+- some fields must not be marked as required
+- fix name filtering issues
+
+Under the hood
+^^^^^^^^^^^^^^
+
+- improve internal logger
+- autoload classes (and now uses php namespaces)
+- upgrade to phpMailer 5.2.1
+- Smarty 3
+
+0.64 -> 0.7.0 (2012-02-21)
+
+Changes and additions
+^^^^^^^^^^^^^^^^^^^^^
+
+- full redisgn
+- interface written with HTML5 / CSS3
+- new history managment
+- mailings history and managment
+- groups managment
+- add a dashboard (which displays latests news from the project
+- public pages (members list en trombinoscope)
+- handle plugins (see available plugins at http://galette.tuxfamily.org/documentation/fr/plugins/index.html#plugins)
+- CSV export of selected tables and/or parameted requests (https://mail.gna.org/public/galette-devel/2009-02/msg00006.html)
+- required fields managment for members add/edition
+- multinlingual managment for subjects and messages automatically send from Galette (subscription, password lots, ...)
+- members statuses managment
+- contributions types managment
+- rewrite of transactions managment
+- rewrite maling interface
+- JQuery UI integration to enhance user experience (menus, tabs, date/color pickers, ...)
+- print membership cards
+- ...
+
+Removals
+^^^^^^^^
+
+- no longer IE6 and IE7 support
+- remove spanish translation (no longer maintained :'()
+
+Under the hood
+^^^^^^^^^^^^^^
+
+- PHP 5.3 and more recent support
+- code mainly rewritten OOP
+- use of PEAR::LOG
+- use of Zend_Db to manage database access instead of AdoDB
+- phpMailer for emails sending (https, gmail, etc. support)
+- make database relationnal
+
+0.63.3 -> 0.64rc1 (2010-02-22)
+- Handle 'stripos' missing function to keep 0.63.x php4 compliant
+- Upgrade Adodb to 4992
+- Upgrade to Smarty 2.6.22, and replace old hack for translations with more elegant plugin
+- Replace phppdflib with tcpdf
+- Symlink to adodb has been removed, we now use a php file defining the versions for the libraries
+- Improved pagination: only 20 pages will appear now, instead of all pages
+- Remove spanish language which has not been maintaned for ages
+- Use UTF-8 for translation files
+- Fix a bug calculating end membership date when using begining date for membership in the preferences
+- Remove not functionnal and not used "public" pages
+- Remove unused files
+- Handle 'mb_strtoupper' to avoid error on labels generation when mb extension is not present
+- Move config file from includes to config directory. Wrtie access on includes directory will no longer be required at install
+- Only super-admin can change its login/password now. Standard admins can no longer do that
+
+0.63.2 -> 0.63.3 (2009-11-09)
+- fix a security flaw that allowed attacker to send arbitrary PHP files on some servers
+- when sendind invalid member form, line dynamic fields were repeated (bug #10187)
+- some encoding issues has been noticed on UFT-8 MySQL servers. Connection is now forced to LATIN1 (thanks to Cédric)
+- unbreakable spaces appears on non html email (thanks to Cédric OLIVIER)
+- using XML characters in mailing subjects causes XML analysis errors on preview (bug #14571)
+- needless data were stored into logs (and not at the right place) sending mailings (bug #14569)
+- XML analysis errors where thrown on logs page when a member card contains reserved characters (bug #14561)
+- html tags in mailing were not showed while previewing a mailing under Firefox (bug #14465)
+
+0.63.1 -> 0.63.2
+- membership's deadline was incorrect for a fiscal year (bug #13010)
+- donations didn't appear in the right color in the table (bug #13009)
+- history entries when adding or editing a contribution did not contains member's login - as when adding/editing a member (bug #13011)
+- on windows, some characters were incorrectly interpreted - ¿\n¿ for example (bug #14162)
+- when saving a picture (PNG format), alpha channel was not saved, causing image to get a default background color (bug #14327)
+- restrictions showing pictures (since 0.63.1) prevents custom logo to display correctly (bug #14442)
+- when editing member's language, current session was also translated (bug #14443)
+- some characters - like simple quotes - were badly encoded mailings subjects (bug #14449)
+- mail sending were always active, even if disabled in preferences (bug #14450)
+
+
+0.63 -> 0.63.1
+- some preferences were not updated at install time
+- on some web hosting services, exif functions are not available. In this case, we use GD (bug #12836)
+- XHTML was sometimes not well formed, due to PHP sessions (bug #13071)
+- fix PHP notices in the logs (patch #1133)
+- remove of posix functions which are deprecated in PHP 5.3
+- add of a .htaccess file to prevent read of uploaded photos from the web
+
+0.62 -> 0.63
+- Project leader change :-)
+- Added transactions managment
+- Added dynamic field managment, to add some extra fields; also added the ability to translate such fields labels
+- Members can now self-subscribe
+- Use of Smarty template engine for pages generation. This causes complete xhtml compliant rewrite of html pages
+- Upgrade from ADODB 4.7.1 to 4.9.2
+- Use of gettext possibilities for translations
+- Added spanish translations (all translations are not done yet)
+- Added the possibility to upload a custom logo
+- Fixes numerous bugs
+
+0.62a -> 0.62.2
+- change adodb framework due to security alert :
+http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-0410
+- use x.y.z naming convention (0.62a == 0.62.1)
+
+0.62 -> 0.62a
+- correct bug #590 : date before 1970 [Frédéric Jacquot]
+- Typos fixed [Roland Telle]
+- replace logo by new one [Frédéric Jacquot]
+- add an empty config.inc.php [Loïs Taulelle]
+
+0.61 -> 0.62
+
+- More documentation
+- Typos fixed
+- Recoded the html_entity_decode() function to preserve compatibility with pre-4.3 PHP
+- Defined a maxsize for the text fields (preferences)
+- First version of the Upgrade documentation using a Linux shell (in French)
+- Font size for table headers defined
+- "Update complete" string translated
+- Errors on DROP and RENAME operations can now be safely be ignored
+- Structure of the 'preferences' table enhanced
+- Font size defined for form labels
+- Bugfix concerning a call to imagegif when the function wasn't available (reported by Vincent Bossuet)
+- Fixed a bug reported by Lois Taulelle. Membership ending date wasn't updated when removing the "Freed of dues" attribute
+- Added the possibility to be visible or not in the members list (if you wan't to list members outside from Galette). Courtesy of Stephane Sales
+- Removed many PHP warnings (Galette should be running fine when error_reporting = E_ALL)
+- The log can now be sorted
+
+O.60 -> 0.61
+
+- Bugfix in member edition form (admin)
+- Merged ajouter_adherent.php and gestion_contributions.php (member edition)
+- Table prefixes are now allowed
+- Removed all eval() functions (potentially dangerous)
+- Picture resizing if GD is available
+- HTML equivalents in members' names were badly displayed
+- Go back to the member's contributions after adding one
+- "1 days left" was not correct ;)
+- Date filter added in contribution listing
+- Correction of a few spelling mistake
+- Navigation links when on a member's contributions list added
+- Clicking on a member's name in the contributions list shows his
+  contributions intead of his profile
+- Lost password recovery added
+- Removed the Galette acronym meaning
+- Header corrections
+- Better language file detection
+- Bugfix in thumbnail display
+- DROP permission wasn't checked during install process
+- English translation
+
+
+O.60 -> 0.61
+
+- Correction du formulaire d'édition d'adhérent (admin)
+- Fusion des fichiers ajouter_adherent.php et gestion_contributions.php
+  (edition de membre)
+- Les prefixes de tables sont maintenant autorisés
+- Réduction des photos si GD est disponible
+- Les équivalents HTML dans les noms d'adhérents étaient parfois
+  mal affichés
+- Retour aux contributions d'un membre après l'ajout d'un contribution
+- Filtre sur les dates dans le listing des cotisations
+- Correction de fautes d'orthographe
+- Liens de navigation sur la fiche de cotisations d'un membre
+- Cliquer sur le nom d'un adhérent dans la liste des cotisations
+  permet d'obtenir ses contributions au lieu de son profil
+- Lien "mot de passe perdu"
+- Masquage de la signification de l'acronyme "Galette"
+- Corrections dans les en-têtes
+- Meilleure détection du fichier de langue
+- Correction de bug dans l'affichage des vignettes
+- Le permission DROP n'était pas vérifié durant l'installation
+- Traduction en anglais

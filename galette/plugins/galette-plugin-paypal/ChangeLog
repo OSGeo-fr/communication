@@ -1,0 +1,49 @@
+* 2013-08-10 - 1.4 - Debian France sponsored
+- Galette 0.7.5 compatible
+- Detect and prevent blank amounts
+- Delete contributions in cascade
+- Execute post contribution script
+- Fix encoding with paypal website and callbacks
+
+* 2013-05-08 - 1.3
+- Do not propose members contributions for non logged users
+- Error on unfdefined paypal ID
+- Payment détails are not always available
+
+* 2013-01-19 - 1.2.1
+- Improve form
+- Update translations
+- Fix bad constant call
+- Add payment type on notification
+
+* 2013-01-06 - 1.2
+- Galette 0.7.3 compatible
+- Fix pagination issue
+- Improve history display
+- Use Analog as logger
+
+* 2012-10-07 - 1.1.0.1
+- Fix missing namespace
+
+* 2012-10-06 - 1.1
+- Galette 0.7.1 compatible
+- Default amount is no longer hardcoded
+- Set French language UTF-8
+- Now works with PostgreSQL
+- Change session name according to Galette's rules
+- Rename SQL scripts to suits Galette's standards
+- Fix menu path issues
+- Uses namespaces and autoloader
+- Use KLogger as logger
+- Fix buggy smarty prefix under windows
+
+* 2011-11-20 - 1.0.2
+- Staff members can now change amounts and (in)actives contributions types, but not the paypal ID
+- Displays a message when preferences are stored
+- Cannot unset all inactives types
+
+* 2011-11-19 - 1.0.1
+- Update i18n
+
+* 2011-10-24 - 1.0
+- First stable release
