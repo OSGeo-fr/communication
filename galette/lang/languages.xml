@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<lang id="fr_FR" long="fr_FR.utf8" alter="fra">
+		<shortname>fr</shortname>
+		<longname>français</longname>
+		<flag>french.gif</flag>
+		<filename>french</filename>
+	</lang>
+	<lang id="en_US" alter="english">
+		<shortname>en</shortname>
+		<longname>english</longname>
+		<flag>english.gif</flag>
+		<filename>english</filename>
+	</lang>
+</translations>

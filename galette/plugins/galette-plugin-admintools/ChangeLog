@@ -1,0 +1,22 @@
+* 2013-08-10 - 1.4
+- Galette 0.7.5 compatibility
+- Add PDF models reinitialization
+- Add PHP modeuls check
+
+* 2013-05-07 - 1.3
+- Add fields configuration reset
+- Fix typos
+- Menu entry was not selected
+
+* 2013-01-06 - 1.2
+- Galette 0.7.3 compatibility
+- Update © date
+- Add fields reinitialization button
+- Add a function to fill empty logins and passwords
+
+* 2012-10-06 - 1.1
+- Galette 0.7.1 compatibility
+- minor changges
+
+* 2011-12-15 - 1.0
+- First stable release

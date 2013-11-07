@@ -1,0 +1,149 @@
+# Header entry was created by Lokalize.
+#
+# , 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2013-07-16 07:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: French <kde-i18n-doc@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../admintools.php:87
+msgid "An error occured reinitializing fields configuration :("
+msgstr "An error occured reinitializing fields configuration :("
+
+#: ../templates/default/admintools.tpl:36
+msgid ""
+"You should use that function if you can see strange characters in your "
+"datas; after a manual import, or if you've not used Galette's update scripts."
+msgstr ""
+"You should use that function if you can see strange characters in your "
+"datas; after a manual import, or if you've not used Galette's update scripts."
+
+#: ../admintools.php:85
+msgid "Fields configuration has been successfully reinitialized."
+msgstr "Fields configuration has been successfully reinitialized."
+
+#: ../admintools.php:65
+msgid "Database should have been successfully converted to UTF-8!"
+msgstr "Database should have been successfully converted to UTF-8!"
+
+#: ../templates/default/admintools.tpl:6
+#: ../templates/default/admintools.tpl:30
+msgid ""
+"Make sure you've done a backup of the database before using any of the "
+"following tools!"
+msgstr ""
+"Make sure you've done a backup of the database before using any of the "
+"following tools!"
+
+#: ../templates/default/menu.tpl:4
+msgid "Various administrative tools"
+msgstr "Various administrative tools"
+
+#: ../templates/default/admintools.tpl:22
+msgid "Check PHP modules"
+msgstr "Check PHP modules"
+
+#: ../templates/default/admintools.tpl:48
+msgid "Modules report"
+msgstr "Modules report"
+
+#: ../templates/default/admintools.tpl:10
+msgid "Reinitialize emails contents"
+msgstr "Reinitialize emails contents"
+
+#: ../templates/default/admintools.tpl:4
+msgid "Content tools"
+msgstr "Content tools"
+
+#: ../admintools.php:75
+msgid "An error occured reinitializing texts :("
+msgstr "An error occured reinitializing texts :("
+
+#: ../templates/default/admintools.tpl:35
+msgid ""
+"Converts the whole database data to UTF-8, do not change anything on the "
+"tables, just proceed data conversion."
+msgstr ""
+"Converts the whole database data to UTF-8, do not change anything on the "
+"tables, just proceed data conversion."
+
+#: ../templates/default/admintools.tpl:28
+msgid "Database tools"
+msgstr "Database tools"
+
+#: ../admintools.php:111
+msgid "Logins and passwords has been successfully filled (%i processed)."
+msgstr "Logins and passwords has been successfully filled (%i processed)."
+
+#: ../templates/default/admintools.tpl:34
+msgid "That function is available for MySQL installations only!"
+msgstr "That function is available for MySQL installations only!"
+
+#: ../templates/default/admintools.tpl:40
+msgid "Convert encoding"
+msgstr "Convert encoding"
+
+#: ../admintools.php:122
+msgid ""
+"Some PHP modules are missing. Please install them or contact your support."
+"<br/>More informations on required modules may be found in the documentation."
+msgstr ""
+"Some PHP modules are missing. Please install them or contact your support."
+"<br/>More informations on required modules may be found in the documentation."
+
+#: ../templates/default/admintools.tpl:17
+msgid "Generate values for empty logins and passwords"
+msgstr "Generate values for empty logins and passwords"
+
+#: ../admintools.php:98
+msgid "An error occured reinitializing PDF models :("
+msgstr "An error occured reinitializing PDF models :("
+
+#: ../templates/default/menu.tpl:4
+msgid "Admin tools"
+msgstr "Admin tools"
+
+#: ../admintools.php:114
+msgid "An error occured filling empty logins and passwords :("
+msgstr "An error occured filling empty logins and passwords :("
+
+#: ../admintools.php:149
+msgid "Administration tools"
+msgstr "Administration tools"
+
+#: ../templates/default/admintools.tpl:12
+msgid "Reinitialize PDF models"
+msgstr "Reinitialize PDF models"
+
+#: ../templates/default/menu.tpl:2
+msgid "Admin Tools"
+msgstr "Admin Tools"
+
+#: ../templates/default/admintools.tpl:37
+msgid ""
+"That conversion stuff will read your entire database, and write back each "
+"non UTF-8 values after conversion; this may take a while."
+msgstr ""
+"That conversion stuff will read your entire database, and write back each "
+"non UTF-8 values after conversion; this may take a while."
+
+#: ../admintools.php:73
+msgid "Texts has been successfully reinitialized."
+msgstr "Texts has been successfully reinitialized."
+
+#: ../templates/default/admintools.tpl:11
+msgid "Reinitialize fields configuration"
+msgstr "Reinitialize fields configuration"
+
+#: ../admintools.php:96
+msgid "PDF models has been successfully reinitialized."
+msgstr "PDF models has been successfully reinitialized."
+
