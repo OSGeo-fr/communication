@@ -1,0 +1,129 @@
+
+/* ---------- Color Module Styles ----------- */
+body { color: #7a7a7a; background:#222222; }
+
+a, li a.active,
+#footer a:hover, #footer li a.active:hover, #footer-bottom a:hover, #footer-bottom li a.active:hover,
+#header a, #header-menu ul.menu li a:hover, #header-menu ul.menu li a.active, #header-menu ul.menu li ul.menu li a:hover,
+#navigation .block-superfish ul.sf-menu li a:focus, #navigation .block-superfish ul.sf-menu li a:hover, #navigation .block-superfish ul.sf-menu li a.active,
+.front .node h1.front-heading { color:#ac3c3c; }
+
+#content a {
+	color:#9f3636;
+}
+#content a:hover {
+	text-decoration:underline;
+	 color:#ac3c3c;
+}
+#header-menu a, #header-menu ul.menu li a, #navigation .block-superfish ul.sf-menu li a { color:#d4fffd; }
+
+#footer a, #footer li a.active, #footer-bottom a, #footer-bottom li a.active { color:#d4fffd; }
+
+h1, h2, h3, h4, h5, h6 { color:#636363; text-shadow: 1px 1px 1px #ffffff;}
+
+#slogan { color:#d5d5d5; }
+
+#header {
+background: #7da84d;
+/* IE10 */ 
+background-image: -ms-linear-gradient(top, #7da84d 0%, #9dcd66 100%);
+/* Mozilla Firefox */ 
+background-image: -moz-linear-gradient(top, #7da84d 0%, #9dcd66 100%);
+/* Opera */ 
+background-image: -o-linear-gradient(top, #7da84d 0%, #9dcd66 100%);
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #7da84d), color-stop(1, #9dcd66));
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-linear-gradient(top, #7da84d 0%, #9dcd66 100%);
+/* Proposed W3C Markup */ 
+background-image: linear-gradient(top, #7da84d 0%, #9dcd66 100%);
+/* IE6-9 */ 
+filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#7da84d', endColorstr='#9dcd66'); }
+
+#header { background:#9ccd66;}
+
+#header-menu { background: #222222; border-top:1px solid #222222; border-bottom:1px solid #222222; }
+
+#header-menu ul.menu li.expanded ul.menu, #navigation .block-superfish ul.sf-menu li, #navigation .block-superfish ul.sf-menu li li a { background: #222222; }
+/** removed by @simo
+#header-menu ul.menu li.expanded ul.menu li a, #footer .block ul.menu li a, #navigation .block-superfish ul.sf-menu li li a { border-bottom:1px solid #222222; }
+* */
+#footer-bottom { border-top:1px solid #222222; }
+ul.secondary-menu li, #footer-bottom ul.menu li { border-right:1px solid #222222; }
+
+#header-menu ul.menu li ul.menu li a:hover,
+#header-menu ul.menu li.expanded ul.menu li.expanded a:hover,
+#header-menu ul.menu li.expanded ul.menu li.leaf a:hover,
+#navigation .block-superfish ul.sf-menu li li:hover,
+#navigation .block-superfish ul.sf-menu li li a:focus, #navigation .block-superfish ul.sf-menu li li a:hover, #navigation .block-superfish ul.sf-menu li li a:active  { background-color:#203e42; }
+
+#banner  {
+background: #efeeee;
+/* IE10 */ 
+background-image: -ms-linear-gradient(top, #efeeee 0%, #dadada 100%);
+/* Mozilla Firefox */ 
+background-image: -moz-linear-gradient(top, #efeeee 0%, #dadada 100%);
+/* Opera */ 
+background-image: -o-linear-gradient(top, #efeeee 0%, #dadada 100%);
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #efeeee), color-stop(1, #dadada));
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-linear-gradient(top, #efeeee 0%, #dadada 100%);
+/* Proposed W3C Markup */ 
+background-image: linear-gradient(top, #efeeee 0%, #dadada 100%);
+/* IE6-9 */ 
+filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#efeeee', endColorstr='#dadada');
+ 
+border-bottom:1px solid #fcfcfc; }
+
+#content {
+background: #e8e8e8;
+/* IE10 */ 
+background-image: -ms-linear-gradient(top, #e8e8e8 0%, #efefef 100%);
+/* Mozilla Firefox */ 
+background-image: -moz-linear-gradient(top, #e8e8e8 0%, #efefef 100%);
+/* Opera */ 
+background-image: -o-linear-gradient(top, #e8e8e8 0%, #efefef 100%);
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #e8e8e8), color-stop(1, #efefef));
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-linear-gradient(top, #e8e8e8 0%, #efefef 100%);
+/* Proposed W3C Markup */ 
+background-image: linear-gradient(top, #e8e8e8 0%, #efefef 100%);
+/* IE6-9 */ 
+filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#e8e8e8', endColorstr='#efefef'); 
+background: #efefef; /** @simo */
+}
+
+#footer { background:#203e42; }
+
+#footer-bottom { 
+background: #222222;
+/* IE10 */ 
+background-image: -ms-linear-gradient(top, #203e42 0%, #222222 100%);
+/* Mozilla Firefox */ 
+background-image: -moz-linear-gradient(top, #203e42 0%, #222222 100%);
+/* Opera */ 
+background-image: -o-linear-gradient(top, #203e42 0%, #222222 100%);
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #203e42), color-stop(1, #222222));
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-linear-gradient(top, #203e42 0%, #222222 100%);
+/* Proposed W3C Markup */ 
+background-image: linear-gradient(top, #203e42 0%, #222222 100%);
+/* IE6-9 */ 
+filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#203e42', endColorstr='#222222'); }
+
+/** @simo */
+.links ul li a, a.more, #comments ul.links li a,
+input[type="submit"], input[type="reset"], input[type="button"] {
+color:#fefefe !important;
+background:#333333;
+font-weight:normal;
+font-variant:small-caps;
+ }
+
+.links ul li a:hover, a.more:hover, #comments ul.links li a:hover,
+input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover { background: #110e0e;color:#ffffff !important; text-decoration:none !important; }
+
+.region-sidebar-first .block .content, .region-sidebar-second .block .content { background:#fdfdfd; }

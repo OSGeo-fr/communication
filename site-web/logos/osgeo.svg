@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="osgeo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3779">
+      <stop
+         style="stop-color:#e6f0db;stop-opacity:1;"
+         offset="0"
+         id="stop3781" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3783" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2473"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter3391"
+       x="-0.021655949"
+       width="1.0433119"
+       y="-0.10662269"
+       height="1.2132454">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1046875"
+         id="feGaussianBlur3393" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3659">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4925"
+         id="feGaussianBlur3661" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient3785"
+       x1="-454.823"
+       y1="-386.67468"
+       x2="-454.823"
+       y2="-434.33969"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-588,48)" />
+    <inkscape:perspective
+       id="perspective2717"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient3562"
+       x1="-1047"
+       y1="528.69031"
+       x2="-1047"
+       y2="614.68073"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3672"
+       x="-0.20335292"
+       width="1.4067058"
+       y="-0.20465121"
+       height="1.4093024">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6785911"
+         id="feGaussianBlur3674" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3702">
+      <g
+         id="g3704"
+         transform="translate(-792,-4)">
+        <path
+           id="path3706"
+           d="M 876.01762,954.18672 C 777.91302,954.18672 698.2323,1033.7375 698.2323,1131.8419 C 698.2323,1229.9463 777.91302,1309.6273 876.01762,1309.6272 C 901.23929,1309.6272 925.21694,1304.4123 946.94933,1294.9202 L 943.82572,1289.3238 L 942.65458,1285.6796 C 922.23118,1294.5602 899.69956,1299.4755 876.01762,1299.4755 C 783.51886,1299.4755 708.38402,1224.3403 708.38402,1131.8419 C 708.38402,1039.3435 783.51886,964.33844 876.01762,964.33844 C 943.76075,964.33848 1002.0381,1004.6028 1028.4238,1062.4718 C 1031.5029,1061.3703 1034.8381,1060.2277 1038.0545,1059.0879 C 1010.249,997.27242 948.18586,954.18672 876.01762,954.18672 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+        <path
+           id="path3708"
+           d="M -1071.1504,439.08865 C -1071.1504,454.07855 -1083.3161,466.24427 -1098.306,466.24427 C -1113.2959,466.24427 -1125.4616,454.07855 -1125.4616,439.08865 C -1125.4616,424.09875 -1113.2959,411.93304 -1098.306,411.93304 C -1083.3161,411.93304 -1071.1504,424.09875 -1071.1504,439.08865 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           transform="matrix(4.1648099,0,0,4.1648099,5450.1883,-696.81381)" />
+        <path
+           id="path3710"
+           d="M 766.55684,889.52084 L 894.88837,1073.2473 L 1063.8426,1046.4731 L 932.7415,1150.8002 L 956.7458,1316.985 L 855.18857,1187.7302 L 687.15724,1215.4276 L 817.33545,1109.254 L 766.55684,889.52084 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           id="path3712"
+           d="M 849.25997,1070.6321 C 849.24497,1071.2176 852.90584,1081.8241 857.47131,1094.2371 C 862.03677,1106.6505 865.68264,1117.8613 865.68306,1119.1616 C 865.68306,1121.0721 863.1392,1121.0471 852.33901,1119.015 C 844.98271,1117.6307 837.35861,1116.0334 835.32909,1115.4963 C 833.30041,1114.9592 838.20948,1118.2513 846.32711,1122.827 C 854.44349,1127.4034 861.13759,1131.6491 861.13717,1132.2103 C 861.13717,1132.7717 850.79845,1139.468 838.11577,1147.1651 C 825.43267,1154.8615 816.7303,1160.6297 818.75981,1159.9205 C 820.78933,1159.2127 832.11927,1155.1672 843.98107,1150.977 C 855.84162,1146.7863 865.91962,1143.7368 866.41607,1144.2328 C 866.9121,1144.7288 866.23781,1151.2205 864.80262,1158.7476 C 863.36868,1166.274 862.43951,1172.8058 862.7502,1173.1159 C 863.06048,1173.4261 866.5356,1167.8859 870.52174,1160.8002 C 874.50829,1153.7139 878.0792,1147.8715 878.58689,1147.8981 C 879.09375,1147.9241 885.41468,1158.2099 892.51693,1170.77 C 899.61918,1183.3296 905.61776,1193.4368 905.86057,1193.2021 C 906.10337,1192.9668 902.63409,1181.6788 898.08903,1168.131 C 893.54481,1154.5839 890.04845,1143.1827 890.4641,1142.7666 C 890.87974,1142.3518 897.40184,1143.29 904.83436,1144.8192 C 912.26771,1146.3491 918.47369,1147.3095 918.7644,1147.0185 C 919.05552,1146.7273 913.42719,1142.9816 906.15419,1138.6614 L 892.95674,1130.7442 L 913.4855,1118.8684 C 924.82378,1112.2721 933.79686,1106.4822 933.42828,1106.1129 C 933.05927,1105.7444 923.01833,1108.8182 910.99328,1112.8572 C 898.96822,1116.8967 888.75819,1119.9491 888.41126,1119.6015 C 888.06433,1119.2552 889.05264,1112.7839 890.6107,1105.3799 C 892.16834,1097.9761 893.07918,1091.7197 892.66395,1091.3048 C 892.24872,1090.89 888.65074,1096.4625 884.59879,1103.7671 L 877.26706,1116.9624 L 863.19001,1093.2108 C 855.47803,1080.1319 849.27454,1070.0466 849.25997,1070.6321 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+      </g>
+    </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient2544"
+       gradientUnits="userSpaceOnUse"
+       x1="-1047"
+       y1="528.69031"
+       x2="-1047"
+       y2="614.68073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient2546"
+       gradientUnits="userSpaceOnUse"
+       x1="-1047"
+       y1="528.69031"
+       x2="-1047"
+       y2="614.68073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient2548"
+       gradientUnits="userSpaceOnUse"
+       x1="-1047"
+       y1="528.69031"
+       x2="-1047"
+       y2="614.68073" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient2550"
+       gradientUnits="userSpaceOnUse"
+       x1="-1047"
+       y1="528.69031"
+       x2="-1047"
+       y2="614.68073" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3702-0">
+      <g
+         id="g3704-6"
+         transform="translate(-792,-4)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3706-1"
+           d="m 876.01762,954.18672 c -98.1046,0 -177.78532,79.55078 -177.78532,177.65518 0,98.1044 79.68072,177.7854 177.78532,177.7853 25.22167,0 49.19932,-5.2149 70.93171,-14.707 l -3.12361,-5.5964 -1.17114,-3.6442 c -20.4234,8.8806 -42.95502,13.7959 -66.63696,13.7959 -92.49876,0 -167.6336,-75.1352 -167.6336,-167.6336 0,-92.4984 75.13484,-167.50346 167.6336,-167.50346 67.74313,4e-5 126.02048,40.26436 152.40618,98.13336 3.0791,-1.1015 6.4143,-2.2441 9.6307,-3.3839 C 1010.249,997.27242 948.18586,954.18672 876.01762,954.18672 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3708-8"
+           d="m -1071.1504,439.08865 c 0,14.9899 -12.1657,27.15562 -27.1556,27.15562 -14.9899,0 -27.1556,-12.16572 -27.1556,-27.15562 0,-14.9899 12.1657,-27.15561 27.1556,-27.15561 14.9899,0 27.1556,12.16571 27.1556,27.15561 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="matrix(4.1648099,0,0,4.1648099,5450.1883,-696.81381)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3710-7"
+           d="M 766.55684,889.52084 894.88837,1073.2473 1063.8426,1046.4731 932.7415,1150.8002 956.7458,1316.985 855.18857,1187.7302 687.15724,1215.4276 817.33545,1109.254 766.55684,889.52084 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3712-0"
+           d="m 849.25997,1070.6321 c -0.015,0.5855 3.64587,11.192 8.21134,23.605 4.56546,12.4134 8.21133,23.6242 8.21175,24.9245 0,1.9105 -2.54386,1.8855 -13.34405,-0.1466 -7.3563,-1.3843 -14.9804,-2.9816 -17.00992,-3.5187 -2.02868,-0.5371 2.88039,2.755 10.99802,7.3307 8.11638,4.5764 14.81048,8.8221 14.81006,9.3833 0,0.5614 -10.33872,7.2577 -23.0214,14.9548 -12.6831,7.6964 -21.38547,13.4646 -19.35596,12.7554 2.02952,-0.7078 13.35946,-4.7533 25.22126,-8.9435 11.86055,-4.1907 21.93855,-7.2402 22.435,-6.7442 0.49603,0.496 -0.17826,6.9877 -1.61345,14.5148 -1.43394,7.5264 -2.36311,14.0582 -2.05242,14.3683 0.31028,0.3102 3.7854,-5.23 7.77154,-12.3157 3.98655,-7.0863 7.55746,-12.9287 8.06515,-12.9021 0.50686,0.026 6.82779,10.3118 13.93004,22.8719 7.10225,12.5596 13.10083,22.6668 13.34364,22.4321 0.2428,-0.2353 -3.22648,-11.5233 -7.77154,-25.0711 -4.54422,-13.5471 -8.04058,-24.9483 -7.62493,-25.3644 0.41564,-0.4148 6.93774,0.5234 14.37026,2.0526 7.43335,1.5299 13.63933,2.4903 13.93004,2.1993 0.29112,-0.2912 -5.33721,-4.0369 -12.61021,-8.3571 l -13.19745,-7.9172 20.52876,-11.8758 c 11.33828,-6.5963 20.31136,-12.3862 19.94278,-12.7555 -0.36901,-0.3685 -10.40995,2.7053 -22.435,6.7443 -12.02506,4.0395 -22.23509,7.0919 -22.58202,6.7443 -0.34693,-0.3463 0.64138,-6.8176 2.19944,-14.2216 1.55764,-7.4038 2.46848,-13.6602 2.05325,-14.0751 -0.41523,-0.4148 -4.01321,5.1577 -8.06516,12.4623 l -7.33173,13.1953 -14.07705,-23.7516 c -7.71198,-13.0789 -13.91547,-23.1642 -13.93004,-22.5787 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3391-3"
+       x="-0.021655949"
+       width="1.043312"
+       y="-0.10662269"
+       height="1.2132454">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1046875"
+         id="feGaussianBlur3393-1" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3702-0-6">
+      <g
+         id="g3704-6-0"
+         transform="translate(-792,-4)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3706-1-1"
+           d="m 876.01762,954.18672 c -98.1046,0 -177.78532,79.55078 -177.78532,177.65518 0,98.1044 79.68072,177.7854 177.78532,177.7853 25.22167,0 49.19932,-5.2149 70.93171,-14.707 l -3.12361,-5.5964 -1.17114,-3.6442 c -20.4234,8.8806 -42.95502,13.7959 -66.63696,13.7959 -92.49876,0 -167.6336,-75.1352 -167.6336,-167.6336 0,-92.4984 75.13484,-167.50346 167.6336,-167.50346 67.74313,4e-5 126.02048,40.26436 152.40618,98.13336 3.0791,-1.1015 6.4143,-2.2441 9.6307,-3.3839 C 1010.249,997.27242 948.18586,954.18672 876.01762,954.18672 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3708-8-3"
+           d="m -1071.1504,439.08865 c 0,14.9899 -12.1657,27.15562 -27.1556,27.15562 -14.9899,0 -27.1556,-12.16572 -27.1556,-27.15562 0,-14.9899 12.1657,-27.15561 27.1556,-27.15561 14.9899,0 27.1556,12.16571 27.1556,27.15561 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="matrix(4.1648099,0,0,4.1648099,5450.1883,-696.81381)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3710-7-8"
+           d="M 766.55684,889.52084 894.88837,1073.2473 1063.8426,1046.4731 932.7415,1150.8002 956.7458,1316.985 855.18857,1187.7302 687.15724,1215.4276 817.33545,1109.254 766.55684,889.52084 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3712-0-5"
+           d="m 849.25997,1070.6321 c -0.015,0.5855 3.64587,11.192 8.21134,23.605 4.56546,12.4134 8.21133,23.6242 8.21175,24.9245 0,1.9105 -2.54386,1.8855 -13.34405,-0.1466 -7.3563,-1.3843 -14.9804,-2.9816 -17.00992,-3.5187 -2.02868,-0.5371 2.88039,2.755 10.99802,7.3307 8.11638,4.5764 14.81048,8.8221 14.81006,9.3833 0,0.5614 -10.33872,7.2577 -23.0214,14.9548 -12.6831,7.6964 -21.38547,13.4646 -19.35596,12.7554 2.02952,-0.7078 13.35946,-4.7533 25.22126,-8.9435 11.86055,-4.1907 21.93855,-7.2402 22.435,-6.7442 0.49603,0.496 -0.17826,6.9877 -1.61345,14.5148 -1.43394,7.5264 -2.36311,14.0582 -2.05242,14.3683 0.31028,0.3102 3.7854,-5.23 7.77154,-12.3157 3.98655,-7.0863 7.55746,-12.9287 8.06515,-12.9021 0.50686,0.026 6.82779,10.3118 13.93004,22.8719 7.10225,12.5596 13.10083,22.6668 13.34364,22.4321 0.2428,-0.2353 -3.22648,-11.5233 -7.77154,-25.0711 -4.54422,-13.5471 -8.04058,-24.9483 -7.62493,-25.3644 0.41564,-0.4148 6.93774,0.5234 14.37026,2.0526 7.43335,1.5299 13.63933,2.4903 13.93004,2.1993 0.29112,-0.2912 -5.33721,-4.0369 -12.61021,-8.3571 l -13.19745,-7.9172 20.52876,-11.8758 c 11.33828,-6.5963 20.31136,-12.3862 19.94278,-12.7555 -0.36901,-0.3685 -10.40995,2.7053 -22.435,6.7443 -12.02506,4.0395 -22.23509,7.0919 -22.58202,6.7443 -0.34693,-0.3463 0.64138,-6.8176 2.19944,-14.2216 1.55764,-7.4038 2.46848,-13.6602 2.05325,-14.0751 -0.41523,-0.4148 -4.01321,5.1577 -8.06516,12.4623 l -7.33173,13.1953 -14.07705,-23.7516 c -7.71198,-13.0789 -13.91547,-23.1642 -13.93004,-22.5787 z"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3391-3-7"
+       x="-0.021655949"
+       width="1.043312"
+       y="-0.10662269"
+       height="1.2132454">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1046875"
+         id="feGaussianBlur3393-1-8" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="414.55987"
+     inkscape:cy="624.68805"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1637"
+     inkscape:window-height="887"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-1279.3065,658.82846"
+       id="guide3522" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3585"
+       width="398"
+       height="154"
+       x="-128.625"
+       y="1135.3622"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3565"
+       width="371"
+       height="154"
+       x="-128.625"
+       y="1135.3629"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#8cb859;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -140.375,1135.3659 C -181.96218,1136.4207 -215.37501,1170.526 -215.375,1212.3659 C -215.37501,1254.8699 -180.87901,1289.3659 -138.375,1289.3659 L 249.625,1289.3659 C 2.9426,1287.336 2.56343,1150.472 -122.375,1135.3659 L -138.375,1135.3659 C -139.03913,1135.3659 -139.7149,1135.3492 -140.375,1135.3659 z"
+       id="path3567"
+       sodipodi:nodetypes="csccccc"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-52.15625"
+       y="1258.316"
+       id="text3571"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3573"
+         x="-52.15625"
+         y="1258.316"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-43.411133"
+       y="1280.3629"
+       id="text3575"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3577"
+         x="-43.411133"
+         y="1280.3629"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-52.15625"
+       y="1258.316"
+       id="text3579"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3581"
+         x="-52.15625"
+         y="1258.316"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan3583" /></tspan></text>
+    <rect
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3609"
+       width="445"
+       height="154"
+       x="-191.86804"
+       y="879.02533"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-651.76727"
+       y="1072.6415"
+       id="text3615"
+       transform="matrix(1.3584789,0,0,1.3584789,735.60301,-470.84757)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3617"
+         x="-651.76727"
+         y="1072.6415"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <path
+       style="fill:#bcdd96;fill-opacity:0.7883959;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -149.5,1028.3622 L 275.5,1028.3622 C 281.04,1028.3622 285.5,1032.8222 285.5,1038.3622 L 285.5,1172.3622 C 285.5,1177.9022 281.04,1182.3622 275.5,1182.3622 L -149.5,1182.3622 C -155.04,1182.3622 -159.5,1177.9022 -159.5,1172.3622 L -159.5,1038.3622 C -159.5,1032.8222 -155.04,1028.3622 -149.5,1028.3622 z"
+       id="rect3676"
+       mask="url(#mask3702)"
+       transform="translate(-32.36804,-149.33689)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.16957855px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-137.92902"
+       y="1016.2637"
+       id="text3619"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3621"
+         x="-137.92902"
+         y="1016.2637"
+         style="font-size:27.16957855px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.16957855px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-149.80908"
+       y="986.31323"
+       id="text3623"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3625"
+         x="-149.80908"
+         y="986.31323"
+         style="font-size:86.94264984px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan3627" /></tspan></text>
+    <rect
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3659)"
+       id="rect3649"
+       width="445"
+       height="154"
+       x="-203.42572"
+       y="361.30115"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3647"
+       width="445"
+       height="154"
+       x="-203.42572"
+       y="361.30115"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-83.956909"
+       y="451.25427"
+       id="text3633"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3635"
+         x="-83.956909"
+         y="451.25427"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-75.211792"
+       y="473.30115"
+       id="text3637"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3639"
+         x="-75.211792"
+         y="473.30115"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-83.956909"
+       y="451.25427"
+       id="text3641"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3643"
+         x="-83.956909"
+         y="451.25427"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan3645" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="104.15649"
+       y="-4.4813232"
+       id="text3727"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3729"
+         x="104.15649"
+         y="-4.4813232"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-133.90564"
+       y="21.71463"
+       id="text3673"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3675"
+         x="-133.90564"
+         y="21.71463"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-125.16052"
+       y="43.761505"
+       id="text3677"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3679"
+         x="-125.16052"
+         y="43.761505"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-133.90564"
+       y="21.71463"
+       id="text3681"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3683"
+         x="-133.90564"
+         y="21.71463"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan3685" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a0c475;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="93.332825"
+       y="191.35797"
+       id="text3733"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3735"
+         x="93.332825"
+         y="191.35797"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#a0c475;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-144.72931"
+       y="217.55389"
+       id="text3737"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3739"
+         x="-144.72931"
+         y="217.55389"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#97bb6d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-135.98419"
+       y="239.60077"
+       id="text3741"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3743"
+         x="-135.98419"
+         y="239.60077"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#97bb6d;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-144.72931"
+       y="217.55389"
+       id="text3745"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3747"
+         x="-144.72931"
+         y="217.55389"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan3749" /></tspan></text>
+    <g
+       id="g2570">
+      <text
+         id="text3753"
+         y="307.35797"
+         x="-910.66718"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a0c475;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#a0c475;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           y="307.35797"
+           x="-910.66718"
+           id="tspan3755"
+           sodipodi:role="line">fr</tspan></text>
+      <text
+         id="text3757"
+         y="333.55389"
+         x="-1148.7292"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           y="333.55389"
+           x="-1148.7292"
+           id="tspan3759"
+           sodipodi:role="line">OSGeo</tspan></text>
+      <text
+         id="text3765"
+         y="333.55389"
+         x="-1148.7292"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           y="333.55389"
+           x="-1148.7292"
+           id="tspan3767"
+           sodipodi:role="line">OSGeo<tspan
+   id="tspan3769"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold" /></tspan></text>
+      <text
+         transform="scale(1,-1)"
+         id="text3771"
+         y="-339.45593"
+         x="-1148.7292"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3785);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3785);fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           y="-339.45593"
+           x="-1148.7292"
+           id="tspan3773"
+           sodipodi:role="line"><tspan
+   id="tspan3787"
+   style="fill:url(#linearGradient3785);fill-opacity:1">O</tspan>SGeo</tspan></text>
+      <g
+         style="fill:url(#linearGradient3562);fill-opacity:1;stroke:none"
+         transform="matrix(0.4971629,0,0,0.4971629,-606.01372,78.05724)"
+         id="g3546">
+        <path
+           style="fill:url(#linearGradient2544);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           d="M -1046.8757,527.57035 C -1070.4313,527.57035 -1089.5632,546.67105 -1089.5632,570.2266 C -1089.5632,593.78215 -1070.4313,612.91411 -1046.8757,612.9141 C -1040.8198,612.9141 -1035.0626,611.66197 -1029.8445,609.38285 L -1030.5945,608.0391 L -1030.8757,607.1641 C -1035.7795,609.2964 -1041.1895,610.4766 -1046.8757,610.4766 C -1069.0853,610.4766 -1087.1257,592.43612 -1087.1257,570.2266 C -1087.1257,548.01708 -1069.0853,530.00785 -1046.8757,530.00785 C -1030.6101,530.00786 -1016.6173,539.6756 -1010.2819,553.57035 C -1009.5426,553.30589 -1008.7418,553.03153 -1007.9695,552.75785 C -1014.6458,537.91553 -1029.5476,527.57035 -1046.8757,527.57035 z"
+           id="path3548" />
+        <path
+           sodipodi:type="arc"
+           style="fill:url(#linearGradient2546);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           id="path3550"
+           sodipodi:cx="-1098.306"
+           sodipodi:cy="439.08865"
+           sodipodi:rx="27.155615"
+           sodipodi:ry="27.155615"
+           d="m -1071.1504,439.08865 c 0,14.99764 -12.158,27.15562 -27.1556,27.15562 -14.9977,0 -27.1556,-12.15798 -27.1556,-27.15562 0,-14.99763 12.1579,-27.15561 27.1556,-27.15561 14.9976,0 27.1556,12.15798 27.1556,27.15561 z"
+           transform="translate(51.41468,131.15357)" />
+        <path
+           style="fill:url(#linearGradient2548);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.01141334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M -1073.158,512.04362 L -1042.3447,556.15763 L -1001.7776,549.72896 L -1033.2559,574.77863 L -1027.4923,614.68075 L -1051.8769,583.64577 L -1092.2224,590.29612 L -1060.9657,564.8031 L -1073.158,512.04362 z"
+           id="path3552" />
+        <path
+           style="fill:url(#linearGradient2550);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           d="M -1053.3004,555.52971 C -1053.304,555.67028 -1052.425,558.21698 -1051.3288,561.19743 C -1050.2326,564.17798 -1049.3572,566.86976 -1049.3571,567.18198 C -1049.3571,567.6407 -1049.9679,567.6347 -1052.5611,567.14678 C -1054.3274,566.81439 -1056.158,566.43086 -1056.6453,566.3019 C -1057.1324,566.17294 -1055.9537,566.9634 -1054.0046,568.06206 C -1052.0558,569.16088 -1050.4485,570.1803 -1050.4486,570.31507 C -1050.4486,570.44986 -1052.931,572.05769 -1055.9762,573.9058 C -1059.0215,575.75377 -1061.111,577.13876 -1060.6237,576.96848 C -1060.1364,576.79853 -1057.416,575.82716 -1054.5679,574.82108 C -1051.7201,573.81486 -1049.3003,573.08264 -1049.1811,573.20174 C -1049.062,573.32084 -1049.2239,574.87955 -1049.5685,576.68686 C -1049.9128,578.494 -1050.1359,580.06231 -1050.0613,580.13677 C -1049.9868,580.21125 -1049.1524,578.88101 -1048.1953,577.1797 C -1047.2381,575.47823 -1046.3807,574.07543 -1046.2588,574.08182 C -1046.1371,574.08806 -1044.6194,576.55774 -1042.9141,579.57352 C -1041.2088,582.58915 -1039.7685,585.01597 -1039.7102,584.95961 C -1039.6519,584.90312 -1040.4849,582.19278 -1041.5762,578.93986 C -1042.6673,575.68711 -1043.5068,572.9496 -1043.407,572.8497 C -1043.3072,572.7501 -1041.7412,572.97538 -1039.9566,573.34255 C -1038.1718,573.70989 -1036.6817,573.94049 -1036.6119,573.8706 C -1036.542,573.8007 -1037.8934,572.90132 -1039.6397,571.86401 L -1042.8085,569.96304 L -1037.8794,567.11158 C -1035.157,565.52775 -1033.0025,564.13757 -1033.091,564.0489 C -1033.1796,563.96041 -1035.5905,564.69844 -1038.4778,565.66824 C -1041.3651,566.63815 -1043.8166,567.37107 -1043.8999,567.28759 C -1043.9832,567.20445 -1043.7459,565.65065 -1043.3718,563.87288 C -1042.9978,562.09519 -1042.7791,560.59297 -1042.8788,560.49337 C -1042.9785,560.39377 -1043.8424,561.73175 -1044.8153,563.48564 L -1046.5757,566.65393 L -1049.9557,560.95101 C -1051.8074,557.81068 -1053.2969,555.38913 -1053.3004,555.52971 z"
+           id="path3554" />
+      </g>
+      <rect
+         ry="1"
+         rx="1"
+         y="274.36218"
+         x="-1164"
+         height="39"
+         width="294"
+         id="rect3809"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.25597271;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3540"
+       transform="matrix(1.0461795,0,0,1.0461795,961.4676,-160.41495)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3526"
+         d="M -1046.8757,527.57035 C -1070.4313,527.57035 -1089.5632,546.67105 -1089.5632,570.2266 C -1089.5632,593.78215 -1070.4313,612.91411 -1046.8757,612.9141 C -1040.8198,612.9141 -1035.0626,611.66197 -1029.8445,609.38285 L -1030.5945,608.0391 L -1030.8757,607.1641 C -1035.7795,609.2964 -1041.1895,610.4766 -1046.8757,610.4766 C -1069.0853,610.4766 -1087.1257,592.43612 -1087.1257,570.2266 C -1087.1257,548.01708 -1069.0853,530.00785 -1046.8757,530.00785 C -1030.6101,530.00786 -1016.6173,539.6756 -1010.2819,553.57035 C -1009.5426,553.30589 -1008.7418,553.03153 -1007.9695,552.75785 C -1014.6458,537.91553 -1029.5476,527.57035 -1046.8757,527.57035 z"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+      <path
+         transform="translate(51.41468,131.15357)"
+         d="m -1071.1504,439.08865 c 0,14.99764 -12.158,27.15562 -27.1556,27.15562 -14.9977,0 -27.1556,-12.15798 -27.1556,-27.15562 0,-14.99763 12.1579,-27.15561 27.1556,-27.15561 14.9976,0 27.1556,12.15798 27.1556,27.15561 z"
+         sodipodi:ry="27.155615"
+         sodipodi:rx="27.155615"
+         sodipodi:cy="439.08865"
+         sodipodi:cx="-1098.306"
+         id="path3528"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         id="path3530"
+         d="M -1073.158,512.04362 L -1042.3447,556.15763 L -1001.7776,549.72896 L -1033.2559,574.77863 L -1027.4923,614.68075 L -1051.8769,583.64577 L -1092.2224,590.29612 L -1060.9657,564.8031 L -1073.158,512.04362 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:0.95585895px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3532"
+         d="M -1053.3004,555.52971 C -1053.304,555.67028 -1052.425,558.21698 -1051.3288,561.19743 C -1050.2326,564.17798 -1049.3572,566.86976 -1049.3571,567.18198 C -1049.3571,567.6407 -1049.9679,567.6347 -1052.5611,567.14678 C -1054.3274,566.81439 -1056.158,566.43086 -1056.6453,566.3019 C -1057.1324,566.17294 -1055.9537,566.9634 -1054.0046,568.06206 C -1052.0558,569.16088 -1050.4485,570.1803 -1050.4486,570.31507 C -1050.4486,570.44986 -1052.931,572.05769 -1055.9762,573.9058 C -1059.0215,575.75377 -1061.111,577.13876 -1060.6237,576.96848 C -1060.1364,576.79853 -1057.416,575.82716 -1054.5679,574.82108 C -1051.7201,573.81486 -1049.3003,573.08264 -1049.1811,573.20174 C -1049.062,573.32084 -1049.2239,574.87955 -1049.5685,576.68686 C -1049.9128,578.494 -1050.1359,580.06231 -1050.0613,580.13677 C -1049.9868,580.21125 -1049.1524,578.88101 -1048.1953,577.1797 C -1047.2381,575.47823 -1046.3807,574.07543 -1046.2588,574.08182 C -1046.1371,574.08806 -1044.6194,576.55774 -1042.9141,579.57352 C -1041.2088,582.58915 -1039.7685,585.01597 -1039.7102,584.95961 C -1039.6519,584.90312 -1040.4849,582.19278 -1041.5762,578.93986 C -1042.6673,575.68711 -1043.5068,572.9496 -1043.407,572.8497 C -1043.3072,572.7501 -1041.7412,572.97538 -1039.9566,573.34255 C -1038.1718,573.70989 -1036.6817,573.94049 -1036.6119,573.8706 C -1036.542,573.8007 -1037.8934,572.90132 -1039.6397,571.86401 L -1042.8085,569.96304 L -1037.8794,567.11158 C -1035.157,565.52775 -1033.0025,564.13757 -1033.091,564.0489 C -1033.1796,563.96041 -1035.5905,564.69844 -1038.4778,565.66824 C -1041.3651,566.63815 -1043.8166,567.37107 -1043.8999,567.28759 C -1043.9832,567.20445 -1043.7459,565.65065 -1043.3718,563.87288 C -1042.9978,562.09519 -1042.7791,560.59297 -1042.8788,560.49337 C -1042.9785,560.39377 -1043.8424,561.73175 -1044.8153,563.48564 L -1046.5757,566.65393 L -1049.9557,560.95101 C -1051.8074,557.81068 -1053.2969,555.38913 -1053.3004,555.52971 z"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3659)"
+       id="rect3564"
+       width="445"
+       height="154"
+       x="-196.5"
+       y="633.36218"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3672)"
+       d="M -623.25848,733.43055 L -628.35448,707.07696 C -629.61633,702.66052 -623.24762,699.76508 -620.49208,704.31056 L -596.90489,733.28495 L -623.25848,733.43055 z"
+       id="path3594"
+       sodipodi:nodetypes="ccccc"
+       transform="matrix(1.060972,0,0,1.060972,499.222,-142.7187)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3566"
+       width="445"
+       height="154"
+       x="-196.5"
+       y="633.36218"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-69.031189"
+       y="737.31531"
+       id="text3568"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3570"
+         x="-69.031189"
+         y="737.31531"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-60.286072"
+       y="759.36218"
+       id="text3572"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3574"
+         x="-60.286072"
+         y="759.36218"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7ea74e;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-69.031189"
+       y="737.31531"
+       id="text3576"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3578"
+         x="-69.031189"
+         y="737.31531"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan3580" /></tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -161.77648,634.18789 L -166.87248,607.8343 C -168.13433,603.41786 -161.76562,600.52242 -159.01008,605.0679 L -135.42289,634.04229 L -161.77648,634.18789 z"
+       id="path3592"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3582"
+       transform="matrix(1.4761143,0,0,1.4761143,1426.4555,-138.76186)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3584"
+         d="M -1046.8757,527.57035 C -1070.4313,527.57035 -1089.5632,546.67105 -1089.5632,570.2266 C -1089.5632,593.78215 -1070.4313,612.91411 -1046.8757,612.9141 C -1040.8198,612.9141 -1035.0626,611.66197 -1029.8445,609.38285 L -1030.5945,608.0391 L -1030.8757,607.1641 C -1035.7795,609.2964 -1041.1895,610.4766 -1046.8757,610.4766 C -1069.0853,610.4766 -1087.1257,592.43612 -1087.1257,570.2266 C -1087.1257,548.01708 -1069.0853,530.00785 -1046.8757,530.00785 C -1030.6101,530.00786 -1016.6173,539.6756 -1010.2819,553.57035 C -1009.5426,553.30589 -1008.7418,553.03153 -1007.9695,552.75785 C -1014.6458,537.91553 -1029.5476,527.57035 -1046.8757,527.57035 z"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+      <path
+         transform="translate(51.41468,131.15357)"
+         d="m -1071.1504,439.08865 c 0,14.99764 -12.158,27.15562 -27.1556,27.15562 -14.9977,0 -27.1556,-12.15798 -27.1556,-27.15562 0,-14.99763 12.1579,-27.15561 27.1556,-27.15561 14.9976,0 27.1556,12.15798 27.1556,27.15561 z"
+         sodipodi:ry="27.155615"
+         sodipodi:rx="27.155615"
+         sodipodi:cy="439.08865"
+         sodipodi:cx="-1098.306"
+         id="path3586"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         id="path3588"
+         d="M -1073.158,512.04362 L -1042.3447,556.15763 L -1001.7776,549.72896 L -1033.2559,574.77863 L -1027.4923,614.68075 L -1051.8769,583.64577 L -1092.2224,590.29612 L -1060.9657,564.8031 L -1073.158,512.04362 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:0.67745435px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3590"
+         d="M -1053.3004,555.52971 C -1053.304,555.67028 -1052.425,558.21698 -1051.3288,561.19743 C -1050.2326,564.17798 -1049.3572,566.86976 -1049.3571,567.18198 C -1049.3571,567.6407 -1049.9679,567.6347 -1052.5611,567.14678 C -1054.3274,566.81439 -1056.158,566.43086 -1056.6453,566.3019 C -1057.1324,566.17294 -1055.9537,566.9634 -1054.0046,568.06206 C -1052.0558,569.16088 -1050.4485,570.1803 -1050.4486,570.31507 C -1050.4486,570.44986 -1052.931,572.05769 -1055.9762,573.9058 C -1059.0215,575.75377 -1061.111,577.13876 -1060.6237,576.96848 C -1060.1364,576.79853 -1057.416,575.82716 -1054.5679,574.82108 C -1051.7201,573.81486 -1049.3003,573.08264 -1049.1811,573.20174 C -1049.062,573.32084 -1049.2239,574.87955 -1049.5685,576.68686 C -1049.9128,578.494 -1050.1359,580.06231 -1050.0613,580.13677 C -1049.9868,580.21125 -1049.1524,578.88101 -1048.1953,577.1797 C -1047.2381,575.47823 -1046.3807,574.07543 -1046.2588,574.08182 C -1046.1371,574.08806 -1044.6194,576.55774 -1042.9141,579.57352 C -1041.2088,582.58915 -1039.7685,585.01597 -1039.7102,584.95961 C -1039.6519,584.90312 -1040.4849,582.19278 -1041.5762,578.93986 C -1042.6673,575.68711 -1043.5068,572.9496 -1043.407,572.8497 C -1043.3072,572.7501 -1041.7412,572.97538 -1039.9566,573.34255 C -1038.1718,573.70989 -1036.6817,573.94049 -1036.6119,573.8706 C -1036.542,573.8007 -1037.8934,572.90132 -1039.6397,571.86401 L -1042.8085,569.96304 L -1037.8794,567.11158 C -1035.157,565.52775 -1033.0025,564.13757 -1033.091,564.0489 C -1033.1796,563.96041 -1035.5905,564.69844 -1038.4778,565.66824 C -1041.3651,566.63815 -1043.8166,567.37107 -1043.8999,567.28759 C -1043.9832,567.20445 -1043.7459,565.65065 -1043.3718,563.87288 C -1042.9978,562.09519 -1042.7791,560.59297 -1042.8788,560.49337 C -1042.9785,560.39377 -1043.8424,561.73175 -1044.8153,563.48564 L -1046.5757,566.65393 L -1049.9557,560.95101 C -1051.8074,557.81068 -1053.2969,555.38913 -1053.3004,555.52971 z"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2588"
+       transform="translate(-302,-638)">
+      <rect
+         y="1102.3622"
+         x="-909"
+         height="154"
+         width="445"
+         id="rect2537"
+         style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="1102.3622"
+         x="-948"
+         height="154"
+         width="153"
+         id="rect3490"
+         style="fill:#8cb859;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3351"
+         y="1225.3153"
+         x="-785.53125"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           y="1225.3153"
+           x="-785.53125"
+           id="tspan3353"
+           sodipodi:role="line">OSGeo</tspan></text>
+      <text
+         id="text2539"
+         y="1247.3622"
+         x="-776.78613"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           y="1247.3622"
+           x="-776.78613"
+           id="tspan2541"
+           sodipodi:role="line">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+      <text
+         id="text2543"
+         y="1225.3153"
+         x="-785.53125"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           y="1225.3153"
+           x="-785.53125"
+           id="tspan2545"
+           sodipodi:role="line">OSGeo<tspan
+   id="tspan3494"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">-fr</tspan></tspan></text>
+      <rect
+         y="1290.3622"
+         x="-827"
+         height="154"
+         width="366"
+         id="rect3496"
+         style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="rect3498"
+         d="M -870.75,1290.3652 C -912.33718,1291.42 -945.75001,1325.5253 -945.75,1367.3652 C -945.75001,1409.8692 -911.25401,1444.3652 -868.75,1444.3652 L -791.75,1444.3652 L -791.75,1290.3652 L -868.75,1290.3652 C -869.41413,1290.3652 -870.0899,1290.3485 -870.75,1290.3652 z"
+         style="fill:#8cb859;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3502"
+         y="1413.3153"
+         x="-782.53125"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           y="1413.3153"
+           x="-782.53125"
+           id="tspan3504"
+           sodipodi:role="line">OSGeo</tspan></text>
+      <text
+         id="text3506"
+         y="1435.3622"
+         x="-773.78613"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           y="1435.3622"
+           x="-773.78613"
+           id="tspan3508"
+           sodipodi:role="line">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+      <text
+         id="text3510"
+         y="1413.3153"
+         x="-782.53125"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+         xml:space="preserve"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           y="1413.3153"
+           x="-782.53125"
+           id="tspan3512"
+           sodipodi:role="line">OSGeo<tspan
+   id="tspan3514"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">-fr</tspan></tspan></text>
+      <g
+         transform="translate(-270,-34)"
+         id="g3728">
+        <path
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           d="M -602.56788,1161.2608 C -636.53687,1161.2608 -664.12654,1188.8055 -664.12654,1222.7744 C -664.12654,1256.7434 -636.53687,1284.3331 -602.56788,1284.3331 C -593.83481,1284.3331 -585.53249,1282.5274 -578.00758,1279.2408 L -579.08914,1277.303 L -579.49465,1276.0412 C -586.56631,1279.1161 -594.36795,1280.818 -602.56788,1280.818 C -634.59584,1280.818 -660.61148,1254.8023 -660.61148,1222.7744 C -660.61148,1190.7466 -634.59584,1164.7759 -602.56788,1164.7759 C -579.11164,1164.7759 -558.93294,1178.7175 -549.79681,1198.7548 C -548.73068,1198.3735 -547.57587,1197.9778 -546.46215,1197.5832 C -556.08989,1176.1794 -577.57943,1161.2608 -602.56788,1161.2608 z"
+           id="path3716" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           id="path3718"
+           sodipodi:cx="-1098.306"
+           sodipodi:cy="439.08865"
+           sodipodi:rx="27.155615"
+           sodipodi:ry="27.155615"
+           d="m -1071.1504,439.08865 c 0,14.99764 -12.158,27.15562 -27.1556,27.15562 -14.9977,0 -27.1556,-12.15798 -27.1556,-27.15562 0,-14.99763 12.1579,-27.15561 27.1556,-27.15561 14.9976,0 27.1556,12.15798 27.1556,27.15561 z"
+           transform="matrix(1.4420769,0,0,1.4420769,981.2513,589.59736)" />
+        <path
+           style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M -640.46898,1138.8701 L -596.03383,1202.4859 L -537.53296,1193.2153 L -582.92709,1229.3388 L -574.61553,1286.8807 L -609.78,1242.1259 L -667.96131,1251.7162 L -622.88675,1214.9533 L -640.46898,1138.8701 z"
+           id="path3720" />
+        <path
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           d="M -611.8328,1201.5804 C -611.83799,1201.7831 -610.5704,1205.4556 -608.9896,1209.7537 C -607.40879,1214.0519 -606.1464,1217.9336 -606.14625,1218.3839 C -606.14625,1219.0454 -607.02707,1219.0367 -610.76667,1218.3331 C -613.31381,1217.8538 -615.95367,1217.3007 -616.6564,1217.1147 C -617.35883,1216.9287 -615.65906,1218.0687 -612.84831,1219.653 C -610.03799,1221.2376 -607.72014,1222.7077 -607.72028,1222.902 C -607.72028,1223.0964 -611.30009,1225.415 -615.6915,1228.0801 C -620.08306,1230.745 -623.09628,1232.7423 -622.39356,1232.4967 C -621.69083,1232.2517 -617.76781,1230.8509 -613.66063,1229.4 C -609.55388,1227.949 -606.06434,1226.8931 -605.89245,1227.0648 C -605.7207,1227.2366 -605.95417,1229.4843 -606.45111,1232.0906 C -606.94762,1234.6967 -607.26934,1236.9583 -607.16176,1237.0657 C -607.05433,1237.1731 -605.85106,1235.2548 -604.47085,1232.8013 C -603.09049,1230.3477 -601.85406,1228.3247 -601.67827,1228.334 C -601.50277,1228.343 -599.31413,1231.9044 -596.85495,1236.2534 C -594.39578,1240.6022 -592.31876,1244.1018 -592.23468,1244.0206 C -592.15061,1243.9391 -593.35186,1240.0306 -594.9256,1235.3396 C -596.49905,1230.6489 -597.70967,1226.7012 -597.56575,1226.5571 C -597.42183,1226.4135 -595.16354,1226.7384 -592.59001,1227.2679 C -590.01619,1227.7976 -587.86735,1228.1302 -587.7667,1228.0294 C -587.66589,1227.9286 -589.61472,1226.6316 -592.13302,1225.1357 L -596.70267,1222.3944 L -589.59453,1218.2823 C -585.66862,1215.9983 -582.56166,1213.9936 -582.68929,1213.8657 C -582.81705,1213.7381 -586.29376,1214.8024 -590.45747,1216.2009 C -594.62118,1217.5996 -598.15643,1218.6565 -598.27655,1218.5362 C -598.39668,1218.4163 -598.05447,1216.1756 -597.51499,1213.6119 C -596.97565,1211.0483 -596.66027,1208.882 -596.80405,1208.7384 C -596.94782,1208.5947 -598.19363,1210.5242 -599.59663,1213.0535 L -602.13526,1217.6224 L -607.00948,1209.3983 C -609.67977,1204.8697 -611.82775,1201.3777 -611.8328,1201.5804 z"
+           id="path3722" />
+      </g>
+      <g
+         transform="translate(-264.72996,145.85461)"
+         id="g3734">
+        <path
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           d="M -602.56788,1161.2608 C -636.53687,1161.2608 -664.12654,1188.8055 -664.12654,1222.7744 C -664.12654,1256.7434 -636.53687,1284.3331 -602.56788,1284.3331 C -593.83481,1284.3331 -585.53249,1282.5274 -578.00758,1279.2408 L -579.08914,1277.303 L -579.49465,1276.0412 C -586.56631,1279.1161 -594.36795,1280.818 -602.56788,1280.818 C -634.59584,1280.818 -660.61148,1254.8023 -660.61148,1222.7744 C -660.61148,1190.7466 -634.59584,1164.7759 -602.56788,1164.7759 C -579.11164,1164.7759 -558.93294,1178.7175 -549.79681,1198.7548 C -548.73068,1198.3735 -547.57587,1197.9778 -546.46215,1197.5832 C -556.08989,1176.1794 -577.57943,1161.2608 -602.56788,1161.2608 z"
+           id="path3736" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           id="path3738"
+           sodipodi:cx="-1098.306"
+           sodipodi:cy="439.08865"
+           sodipodi:rx="27.155615"
+           sodipodi:ry="27.155615"
+           d="m -1071.1504,439.08865 c 0,14.99764 -12.158,27.15562 -27.1556,27.15562 -14.9977,0 -27.1556,-12.15798 -27.1556,-27.15562 0,-14.99763 12.1579,-27.15561 27.1556,-27.15561 14.9976,0 27.1556,12.15798 27.1556,27.15561 z"
+           transform="matrix(1.4420769,0,0,1.4420769,981.2513,589.59736)" />
+        <path
+           style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M -640.46898,1138.8701 L -596.03383,1202.4859 L -537.53296,1193.2153 L -582.92709,1229.3388 L -574.61553,1286.8807 L -609.78,1242.1259 L -667.96131,1251.7162 L -622.88675,1214.9533 L -640.46898,1138.8701 z"
+           id="path3740" />
+        <path
+           style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+           d="M -611.8328,1201.5804 C -611.83799,1201.7831 -610.5704,1205.4556 -608.9896,1209.7537 C -607.40879,1214.0519 -606.1464,1217.9336 -606.14625,1218.3839 C -606.14625,1219.0454 -607.02707,1219.0367 -610.76667,1218.3331 C -613.31381,1217.8538 -615.95367,1217.3007 -616.6564,1217.1147 C -617.35883,1216.9287 -615.65906,1218.0687 -612.84831,1219.653 C -610.03799,1221.2376 -607.72014,1222.7077 -607.72028,1222.902 C -607.72028,1223.0964 -611.30009,1225.415 -615.6915,1228.0801 C -620.08306,1230.745 -623.09628,1232.7423 -622.39356,1232.4967 C -621.69083,1232.2517 -617.76781,1230.8509 -613.66063,1229.4 C -609.55388,1227.949 -606.06434,1226.8931 -605.89245,1227.0648 C -605.7207,1227.2366 -605.95417,1229.4843 -606.45111,1232.0906 C -606.94762,1234.6967 -607.26934,1236.9583 -607.16176,1237.0657 C -607.05433,1237.1731 -605.85106,1235.2548 -604.47085,1232.8013 C -603.09049,1230.3477 -601.85406,1228.3247 -601.67827,1228.334 C -601.50277,1228.343 -599.31413,1231.9044 -596.85495,1236.2534 C -594.39578,1240.6022 -592.31876,1244.1018 -592.23468,1244.0206 C -592.15061,1243.9391 -593.35186,1240.0306 -594.9256,1235.3396 C -596.49905,1230.6489 -597.70967,1226.7012 -597.56575,1226.5571 C -597.42183,1226.4135 -595.16354,1226.7384 -592.59001,1227.2679 C -590.01619,1227.7976 -587.86735,1228.1302 -587.7667,1228.0294 C -587.66589,1227.9286 -589.61472,1226.6316 -592.13302,1225.1357 L -596.70267,1222.3944 L -589.59453,1218.2823 C -585.66862,1215.9983 -582.56166,1213.9936 -582.68929,1213.8657 C -582.81705,1213.7381 -586.29376,1214.8024 -590.45747,1216.2009 C -594.62118,1217.5996 -598.15643,1218.6565 -598.27655,1218.5362 C -598.39668,1218.4163 -598.05447,1216.1756 -597.51499,1213.6119 C -596.97565,1211.0483 -596.66027,1208.882 -596.80405,1208.7384 C -596.94782,1208.5947 -598.19363,1210.5242 -599.59663,1213.0535 L -602.13526,1217.6224 L -607.00948,1209.3983 C -609.67977,1204.8697 -611.82775,1201.3777 -611.8328,1201.5804 z"
+           id="path3742" />
+      </g>
+    </g>
+    <g
+       id="g3744"
+       transform="translate(464.72117,-9.11701)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3746"
+         d="M -602.56788,1161.2608 C -636.53687,1161.2608 -664.12654,1188.8055 -664.12654,1222.7744 C -664.12654,1256.7434 -636.53687,1284.3331 -602.56788,1284.3331 C -593.83481,1284.3331 -585.53249,1282.5274 -578.00758,1279.2408 L -579.08914,1277.303 L -579.49465,1276.0412 C -586.56631,1279.1161 -594.36795,1280.818 -602.56788,1280.818 C -634.59584,1280.818 -660.61148,1254.8023 -660.61148,1222.7744 C -660.61148,1190.7466 -634.59584,1164.7759 -602.56788,1164.7759 C -579.11164,1164.7759 -558.93294,1178.7175 -549.79681,1198.7548 C -548.73068,1198.3735 -547.57587,1197.9778 -546.46215,1197.5832 C -556.08989,1176.1794 -577.57943,1161.2608 -602.56788,1161.2608 z"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+      <path
+         transform="matrix(1.4420769,0,0,1.4420769,981.2513,589.59736)"
+         d="m -1071.1504,439.08865 c 0,14.99764 -12.158,27.15562 -27.1556,27.15562 -14.9977,0 -27.1556,-12.15798 -27.1556,-27.15562 0,-14.99763 12.1579,-27.15561 27.1556,-27.15561 14.9976,0 27.1556,12.15798 27.1556,27.15561 z"
+         sodipodi:ry="27.155615"
+         sodipodi:rx="27.155615"
+         sodipodi:cy="439.08865"
+         sodipodi:cx="-1098.306"
+         id="path3748"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         id="path3750"
+         d="M -640.46898,1138.8701 L -596.03383,1202.4859 L -537.53296,1193.2153 L -582.92709,1229.3388 L -574.61553,1286.8807 L -609.78,1242.1259 L -667.96131,1251.7162 L -622.88675,1214.9533 L -640.46898,1138.8701 z"
+         style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3752"
+         d="M -611.8328,1201.5804 C -611.83799,1201.7831 -610.5704,1205.4556 -608.9896,1209.7537 C -607.40879,1214.0519 -606.1464,1217.9336 -606.14625,1218.3839 C -606.14625,1219.0454 -607.02707,1219.0367 -610.76667,1218.3331 C -613.31381,1217.8538 -615.95367,1217.3007 -616.6564,1217.1147 C -617.35883,1216.9287 -615.65906,1218.0687 -612.84831,1219.653 C -610.03799,1221.2376 -607.72014,1222.7077 -607.72028,1222.902 C -607.72028,1223.0964 -611.30009,1225.415 -615.6915,1228.0801 C -620.08306,1230.745 -623.09628,1232.7423 -622.39356,1232.4967 C -621.69083,1232.2517 -617.76781,1230.8509 -613.66063,1229.4 C -609.55388,1227.949 -606.06434,1226.8931 -605.89245,1227.0648 C -605.7207,1227.2366 -605.95417,1229.4843 -606.45111,1232.0906 C -606.94762,1234.6967 -607.26934,1236.9583 -607.16176,1237.0657 C -607.05433,1237.1731 -605.85106,1235.2548 -604.47085,1232.8013 C -603.09049,1230.3477 -601.85406,1228.3247 -601.67827,1228.334 C -601.50277,1228.343 -599.31413,1231.9044 -596.85495,1236.2534 C -594.39578,1240.6022 -592.31876,1244.1018 -592.23468,1244.0206 C -592.15061,1243.9391 -593.35186,1240.0306 -594.9256,1235.3396 C -596.49905,1230.6489 -597.70967,1226.7012 -597.56575,1226.5571 C -597.42183,1226.4135 -595.16354,1226.7384 -592.59001,1227.2679 C -590.01619,1227.7976 -587.86735,1228.1302 -587.7667,1228.0294 C -587.66589,1227.9286 -589.61472,1226.6316 -592.13302,1225.1357 L -596.70267,1222.3944 L -589.59453,1218.2823 C -585.66862,1215.9983 -582.56166,1213.9936 -582.68929,1213.8657 C -582.81705,1213.7381 -586.29376,1214.8024 -590.45747,1216.2009 C -594.62118,1217.5996 -598.15643,1218.6565 -598.27655,1218.5362 C -598.39668,1218.4163 -598.05447,1216.1756 -597.51499,1213.6119 C -596.97565,1211.0483 -596.66027,1208.882 -596.80405,1208.7384 C -596.94782,1208.5947 -598.19363,1210.5242 -599.59663,1213.0535 L -602.13526,1217.6224 L -607.00948,1209.3983 C -609.67977,1204.8697 -611.82775,1201.3777 -611.8328,1201.5804 z"
+         style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="160.54395"
+       y="425.46667"
+       id="text2618"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2620"
+         x="160.54395"
+         y="425.46667"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="175.04883"
+       y="712.92273"
+       id="text2622"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2624"
+         x="175.04883"
+         y="712.92273"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="179.04883"
+       y="954.92273"
+       id="text2626"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2628"
+         x="179.04883"
+         y="954.92273"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="195.06836"
+       y="1234.7469"
+       id="text2630"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2632"
+         x="195.06836"
+         y="1234.7469"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+       id="path2668"
+       sodipodi:cx="-204.6055"
+       sodipodi:cy="1422.896"
+       sodipodi:rx="93.002502"
+       sodipodi:ry="93.002502"
+       d="M -111.603,1422.896 A 93.002502,93.002502 0 1 1 -297.608,1422.896 A 93.002502,93.002502 0 1 1 -111.603,1422.896 z"
+       transform="matrix(0.8279347,0,0,0.8279347,366.64271,301.76913)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2634"
+       width="336"
+       height="154"
+       x="-128.625"
+       y="1402.8304"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2636"
+       width="293"
+       height="154"
+       x="-128.625"
+       y="1402.8312"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#8cb859;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -147.50594,1402.8341 C -185.13905,1403.8889 -215.37501,1437.9942 -215.375,1479.8341 C -215.37501,1522.3381 -184.15886,1556.8341 -145.6961,1556.8341 L 205.41316,1556.8341 C -17.81487,1554.8042 -18.157989,1417.9402 -131.21737,1402.8341 L -145.6961,1402.8341 C -146.29709,1402.8341 -146.9086,1402.8174 -147.50594,1402.8341 z"
+       id="path2638"
+       sodipodi:nodetypes="csccccc"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3391);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-52.15625"
+       y="1525.7843"
+       id="text2640"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2642"
+         x="-52.15625"
+         y="1525.7843"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-43.411133"
+       y="1547.8312"
+       id="text2644"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2646"
+         x="-43.411133"
+         y="1547.8312"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ebf5e0;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-52.15625"
+       y="1525.7843"
+       id="text2648"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2650"
+         x="-52.15625"
+         y="1525.7843"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan2652" /></tspan></text>
+    <path
+       style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+       d="M -137.84671,1419.612 C -171.8157,1419.612 -199.40537,1447.1567 -199.40537,1481.1256 C -199.40537,1515.0946 -171.8157,1542.6843 -137.84671,1542.6843 C -129.11364,1542.6843 -120.81132,1540.8786 -113.28641,1537.592 L -114.36797,1535.6542 L -114.77348,1534.3924 C -121.84514,1537.4673 -129.64678,1539.1692 -137.84671,1539.1692 C -169.87467,1539.1692 -195.89031,1513.1535 -195.89031,1481.1256 C -195.89031,1449.0978 -169.87467,1423.1271 -137.84671,1423.1271 C -114.39047,1423.1271 -94.21177,1437.0687 -85.07564,1457.106 C -84.00951,1456.7247 -82.8547,1456.329 -81.74098,1455.9344 C -91.36872,1434.5306 -112.85826,1419.612 -137.84671,1419.612 z"
+       id="path2656"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999978;stroke-opacity:1"
+       id="path2658"
+       sodipodi:cx="-1098.306"
+       sodipodi:cy="439.08865"
+       sodipodi:rx="27.155615"
+       sodipodi:ry="27.155615"
+       d="M -1071.1504,439.08865 A 27.155615,27.155615 0 1 1 -1125.4616,439.08865 A 27.155615,27.155615 0 1 1 -1071.1504,439.08865 z"
+       transform="matrix(1.4420769,0,0,1.4420769,1445.9725,847.94854)"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9dcd66;fill-opacity:1;fill-rule:evenodd;stroke:#7aa647;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -175.74781,1397.2213 L -131.31266,1460.8371 L -72.81179,1451.5665 L -118.20592,1487.69 L -109.89436,1545.2319 L -145.05883,1500.4771 L -203.24014,1510.0674 L -158.16558,1473.3045 L -175.74781,1397.2213 z"
+       id="path2660"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#7aa647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:6.99999978;stroke-opacity:1"
+       d="M -147.11163,1459.9316 C -147.11682,1460.1343 -145.84923,1463.8068 -144.26843,1468.1049 C -142.68762,1472.4031 -141.42523,1476.2848 -141.42508,1476.7351 C -141.42508,1477.3966 -142.3059,1477.3879 -146.0455,1476.6843 C -148.59264,1476.205 -151.2325,1475.6519 -151.93523,1475.4659 C -152.63766,1475.2799 -150.93789,1476.4199 -148.12714,1478.0042 C -145.31682,1479.5888 -142.99897,1481.0589 -142.99911,1481.2532 C -142.99911,1481.4476 -146.57892,1483.7662 -150.97033,1486.4313 C -155.36189,1489.0962 -158.37511,1491.0935 -157.67239,1490.8479 C -156.96966,1490.6029 -153.04664,1489.2021 -148.93946,1487.7512 C -144.83271,1486.3002 -141.34317,1485.2443 -141.17128,1485.416 C -140.99953,1485.5878 -141.233,1487.8355 -141.72994,1490.4418 C -142.22645,1493.0479 -142.54817,1495.3095 -142.44059,1495.4169 C -142.33316,1495.5243 -141.12989,1493.606 -139.74968,1491.1525 C -138.36932,1488.6989 -137.13289,1486.6759 -136.9571,1486.6852 C -136.7816,1486.6942 -134.59296,1490.2556 -132.13378,1494.6046 C -129.67461,1498.9534 -127.59759,1502.453 -127.51351,1502.3718 C -127.42944,1502.2903 -128.63069,1498.3818 -130.20443,1493.6908 C -131.77788,1489.0001 -132.9885,1485.0524 -132.84458,1484.9083 C -132.70066,1484.7647 -130.44237,1485.0896 -127.86884,1485.6191 C -125.29502,1486.1488 -123.14618,1486.4814 -123.04553,1486.3806 C -122.94472,1486.2798 -124.89355,1484.9828 -127.41185,1483.4869 L -131.9815,1480.7456 L -124.87336,1476.6335 C -120.94745,1474.3495 -117.84049,1472.3448 -117.96812,1472.2169 C -118.09588,1472.0893 -121.57259,1473.1536 -125.7363,1474.5521 C -129.90001,1475.9508 -133.43526,1477.0077 -133.55538,1476.8874 C -133.67551,1476.7675 -133.3333,1474.5268 -132.79382,1471.9631 C -132.25448,1469.3995 -131.9391,1467.2332 -132.08288,1467.0896 C -132.22665,1466.9459 -133.47246,1468.8754 -134.87546,1471.4047 L -137.41409,1475.9736 L -142.28831,1467.7495 C -144.9586,1463.2209 -147.10658,1459.7289 -147.11163,1459.9316 z"
+       id="path2662"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="195.06836"
+       y="1502.2152"
+       id="text2664"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2666"
+         x="195.06836"
+         y="1502.2152"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff2a2a;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:0.20000000000000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999977999999956;stroke-opacity:1"
+       id="rect2563"
+       width="2.5047426"
+       height="26.29981"
+       x="-134.00381"
+       y="-27.687155"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ff2a2a;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:0.20000000000000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999977999999956;stroke-opacity:1"
+       id="rect2573"
+       width="2.5047426"
+       height="26.29981"
+       x="-144.64896"
+       y="177.5804"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ff2a2a;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:0.20000000000000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999977999999956;stroke-opacity:1"
+       id="rect2575"
+       width="2.5047426"
+       height="26.29981"
+       x="-211.65086"
+       y="354.16483"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ff2a2a;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:0.20000000000000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999977999999956;stroke-opacity:1"
+       id="rect2577"
+       width="2.5047426"
+       height="26.29981"
+       x="247.34344"
+       y="496.30905"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ff2a2a;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:0.20000000000000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999977999999956;stroke-opacity:1"
+       id="rect2579"
+       width="2.5047426"
+       height="26.29981"
+       x="-204.13663"
+       y="595.87262"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ff2a2a;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:0.20000000000000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.99999977999999956;stroke-opacity:1"
+       id="rect2581"
+       width="2.5047426"
+       height="26.29981"
+       x="254.23149"
+       y="769.95233"
+       inkscape:export-filename="/home/sbe/tmp/osgeo_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       id="rect3609-8"
+       width="445"
+       height="154"
+       x="396.68896"
+       y="276.73792"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-gray.png"
+       inkscape:export-xdpi="50.561798"
+       inkscape:export-ydpi="50.561798" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3391-3);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-651.76727"
+       y="1072.6415"
+       id="text3615-7"
+       transform="matrix(1.3584789,0,0,1.3584789,1324.16,-1073.135)"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-gray.png"
+       inkscape:export-xdpi="50.561798"
+       inkscape:export-ydpi="50.561798"><tspan
+         sodipodi:role="line"
+         id="tspan3617-6"
+         x="-651.76727"
+         y="1072.6415"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#a8a8a8;fill-opacity:0.78228784;fill-rule:evenodd;stroke:none"
+       d="m -149.5,1028.3622 425,0 c 5.54,0 10,4.46 10,10 l 0,134 c 0,5.54 -4.46,10 -10,10 l -425,0 c -5.54,0 -10,-4.46 -10,-10 l 0,-134 c 0,-5.54 4.46,-10 10,-10 z"
+       id="rect3676-5"
+       mask="url(#mask3702-0)"
+       transform="translate(556.18897,-751.62432)"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-gray.png"
+       inkscape:export-xdpi="50.561798"
+       inkscape:export-ydpi="50.561798" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.16957855000000066px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="450.62799"
+       y="413.97626"
+       id="text3619-7"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-gray.png"
+       inkscape:export-xdpi="50.561798"
+       inkscape:export-ydpi="50.561798"><tspan
+         sodipodi:role="line"
+         id="tspan3621-7"
+         x="450.62799"
+         y="413.97626"
+         style="font-size:27.16957855000000066px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.16957855000000066px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="438.74792"
+       y="384.02582"
+       id="text3623-4"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-gray.png"
+       inkscape:export-xdpi="50.561798"
+       inkscape:export-ydpi="50.561798"><tspan
+         sodipodi:role="line"
+         id="tspan3625-8"
+         x="438.74792"
+         y="384.02582"
+         style="font-size:86.94264984000000140px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;font-family:Arial Black;-inkscape-font-specification:Arial Black;fill-opacity:1">OSGeo<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#555555;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+   id="tspan3627-8" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#434343;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="767.60583"
+       y="352.63531"
+       id="text2626-6"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-gray.png"
+       inkscape:export-xdpi="50.561798"
+       inkscape:export-ydpi="50.561798"><tspan
+         sodipodi:role="line"
+         id="tspan2628-5"
+         x="767.60583"
+         y="352.63531"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7d7d7d;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       id="rect3609-8-6"
+       width="445"
+       height="154"
+       x="346.5"
+       y="557.36218"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-green.png"
+       inkscape:export-xdpi="60.779221"
+       inkscape:export-ydpi="60.779221" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3391-3-7);font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="-651.76727"
+       y="1072.6415"
+       id="text3615-7-9"
+       transform="matrix(1.3584789,0,0,1.3584789,1273.971,-792.51074)"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-green.png"
+       inkscape:export-xdpi="60.779221"
+       inkscape:export-ydpi="60.779221"><tspan
+         sodipodi:role="line"
+         id="tspan3617-6-4"
+         x="-651.76727"
+         y="1072.6415"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.16957855px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="400.43903"
+       y="694.60052"
+       id="text3619-7-1"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-green.png"
+       inkscape:export-xdpi="60.779221"
+       inkscape:export-ydpi="60.779221"><tspan
+         sodipodi:role="line"
+         id="tspan3621-7-0"
+         x="400.43903"
+         y="694.60052"
+         style="font-size:27.16957855000000066px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#97bb6d;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f  r  a  n  c  o  p  h  o  n  e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.16957855px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#555555;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="388.55896"
+       y="664.65009"
+       id="text3623-4-1"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-green.png"
+       inkscape:export-xdpi="60.779221"
+       inkscape:export-ydpi="60.779221"><tspan
+         sodipodi:role="line"
+         id="tspan3625-8-9"
+         x="388.55896"
+         y="664.65009"
+         style="font-size:86.94264984000000140px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7aa647;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black">OSGeo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#434343;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="717.41687"
+       y="633.25958"
+       id="text2626-6-1"
+       inkscape:export-filename="/home/simon/Bureau/osgeo-green.png"
+       inkscape:export-xdpi="60.779221"
+       inkscape:export-ydpi="60.779221"><tspan
+         sodipodi:role="line"
+         id="tspan2628-5-3"
+         x="717.41687"
+         y="633.25958"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#a0c475;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">fr</tspan></text>
+  </g>
+</svg>
