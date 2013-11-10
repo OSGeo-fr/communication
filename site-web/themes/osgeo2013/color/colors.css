@@ -2,20 +2,15 @@
 /* ---------- Color Module Styles ----------- */
 body { color: #7a7a7a; background:#1a1a1a; }
 
-a, li a.active,
+ /** code switched to from color.css files to be interpreted */
+#content a, #content li a.active,
 #footer a:hover, #footer li a.active:hover, #footer-bottom a:hover, #footer-bottom li a.active:hover,
 #header a, #header-menu ul.menu li a:hover, #header-menu ul.menu li a.active, #header-menu ul.menu li ul.menu li a:hover,
 #navigation .block-superfish ul.sf-menu li a:focus, #navigation .block-superfish ul.sf-menu li a:hover, #navigation .block-superfish ul.sf-menu li a.active,
 .front .node h1.front-heading { color:#7AA647; }
 
-#content a {
-	color:#719940;
-}
-#content a:hover {
-	text-decoration:underline;
-	 color:#7AA647;
-}
-#header-menu a, #header-menu ul.menu li a, #navigation .block-superfish ul.sf-menu li a { color:#ffffff; }
+#header-menu a, #header-menu ul.menu li a, #navigation .block-superfish ul.sf-menu li a { color:#ffffff !important; }
+/** nd code switched from color.css files to be interpreted */
 
 #footer a, #footer li a.active, #footer-bottom a, #footer-bottom li a.active { color:#e4e4e4; }
 
@@ -48,7 +43,7 @@ filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#2f2f2f', end
 /** removed by @simo
 #header-menu ul.menu li.expanded ul.menu li a, #footer .block ul.menu li a, #navigation .block-superfish ul.sf-menu li li a { border-bottom:1px solid #353535; }
 * */
-#footer-bottom { border-top:1px solid #353535; }
+#footer-bottom { }
 ul.secondary-menu li, #footer-bottom ul.menu li { border-right:1px solid #353535; }
 
 #header-menu ul.menu li ul.menu li a:hover,
