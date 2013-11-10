@@ -546,6 +546,13 @@ ul.primary li a, ul.tabs li a { margin:0; padding: 4px 1em; display: inline-bloc
 
 /** CHANGES by @simo
  * ****/
+
+ /** code switched to from color.css files to be interpreted */
+#header-menu ul.menu li a:hover, #header-menu ul.menu li a.active, #header-menu ul.menu li ul.menu li a:hover { color:#7AA647 !important; }
+
+#header-menu ul.menu li a, #navigation .block-superfish ul.sf-menu li a { color:#ffffff !important; }
+/** nd code switched from color.css files to be interpreted */
+
  h2, h3 {
  margin-top:2em
  }
@@ -574,14 +581,14 @@ ul.primary li a, ul.tabs li a { margin:0; padding: 4px 1em; display: inline-bloc
 	padding:0.5em 1.5em !important;
 	display:block!important;
 	border-top: 1px solid #EFEFEF;
-	color:#555;
+	color:#555 !important;
 }
 #latest-news h2 {
 color:#636363;margin:0;padding:0 0 0.5em;text-align:center;
 }
 #latest-news ul li a:hover {
 	background:#777;
-	color:#fff;
+	color:#fff !important;
 	border-top: 1px solid #fff;
 	text-decoration:none;
 }
@@ -643,6 +650,7 @@ color:#9DCD66;
 
 #footer-bottom {
     padding: 10px 0;
+    border-top:1px solid #353535 !important; 
 }
 
 #block-menu-menu-social li a {
@@ -718,5 +726,13 @@ input.form-text.error { border:2px solid red; }
 
 textarea { background:#fff; border:1px solid #999;
 font-family: "Lucida Grande","Lucida Sans Unicode",Segoe UI,Helvetica,Arial,sans-serif;
-margin:5px 20px 10px 0; padding:10px 5px; h
+margin:5px 20px 10px 0; padding:10px 5px;
+}
+
+ #content-inside a {
+	color:#719940 !important;
+}
+#content-inside a:hover {
+	text-decoration:underline;
+	 color:#7AA647;
 }

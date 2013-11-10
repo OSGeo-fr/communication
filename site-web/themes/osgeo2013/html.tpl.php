@@ -49,7 +49,7 @@
   <title><?php print $head_title; ?></title>  
   <?php print $styles; ?>
   
-  <?php if (theme_get_setting('responsive_respond','corporateclean')):
+  <?php if (theme_get_setting('responsive_respond','osgeo2013')):
   global $base_path; global $base_root; ?>
   <!--[if lt IE 9]>
   <script src="<?php print $base_root . $base_path . path_to_theme() ?>/js/respond.min.js"></script>
