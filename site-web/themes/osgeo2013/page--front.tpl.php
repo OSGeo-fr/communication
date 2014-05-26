@@ -237,6 +237,7 @@
 			$query->condition('n.type', 'blog', '=')
 				  ->condition('n.status', 1, '=')
 				  ->fields('n', array('nid', 'title', 'uid', 'created'))
+				  ->orderBy('n.created', 'DESC')
 				  ->range(0, $listlength);
 			$latestnews = $query->execute()->fetchAll(PDO::FETCH_ASSOC);
 			// print_r($latestnews);
