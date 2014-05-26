@@ -134,11 +134,13 @@ We have to use a template file, so Smarty will do its work (like replacing varia
   {/if}
         </ul>
 {/if}
-{if $preferences->showPublicPages() eq true}
+{if $preferences->showPublicPages($login) eq true}
         <h1 class="nojs">{_T string="Public pages"}</h1>
         <ul>
             <li><a href="{$galette_base_path}public/liste_membres.php" title="{_T string="Members list"}">{_T string="Members list"}</a></li>
             <li><a href="{$galette_base_path}public/trombinoscope.php" title="{_T string="Trombinoscope"}">{_T string="Trombinoscope"}</a></li>
+            {* Include plugins menu entries *}
+            {$plugins->getPublicMenus($tpl, $preferences)}
         </ul>
 {/if}
 {if $login->isAdmin()}

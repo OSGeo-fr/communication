@@ -1,7 +1,24 @@
 Changes
 -------
 
-0.7.5.5 -> 0.7.5.6
+0.7.7 -> 0.7.8
+- Add release date on plugins
+- Add public pages for plugins
+
+0.7.6.1 -> 0.7.7
+- Add attachments to mailings
+- Fix login_adh value on import
+- Fix bad creation date value on import
+- Fix charts types issues
+- Fix dynamic transactions fields
+- Add amessage when trying to import a member with an unknown status
+
+0.7.6 -> 0.7.6.1
+- Wrong member creation date
+- Import model cannot be changed
+- Fix memberlist CSV export
+
+0.7.5.5 -> 0.7.6
 - configurable CSV imports
 - filter on non members
 - PostgreSQL >= 9.1
