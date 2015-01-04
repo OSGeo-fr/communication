@@ -1,0 +1,4 @@
+178.33.103.68 - 2013-11-11 20:08:51 - 4 - PHP Warning: Invalid argument supplied for foreach() in /homez.504/osgeo/www/galette/plugins/galette-plugin-paypal/classes/paypal-history.class.php on line 167
+178.33.103.68 - 2013-11-11 20:11:02 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-11-11 20:11:29 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-11-11 20:11:42 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438

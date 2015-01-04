@@ -1,0 +1,189 @@
+178.33.103.4 - 2013-10-28 23:49:58 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:01:10 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.4 - 2013-10-29 00:01:10 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.4 - 2013-10-29 00:01:27 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.4 - 2013-10-29 00:01:27 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.4 - 2013-10-29 00:01:27 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.4 - 2013-10-29 00:03:53 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:04:23 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:06:23 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:07:06 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:08:48 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:09:50 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:14:13 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:16:48 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:17:28 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:21:48 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 00:22:38 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:31:09 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:31:42 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:32:24 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:33:00 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:33:34 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:34:16 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:34:37 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:35:19 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:35:32 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:36:04 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:36:55 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:37:14 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:37:51 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:38:18 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:38:56 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:39:19 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:39:46 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:40:48 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:41:25 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:41:49 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:42:28 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:43:09 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:43:46 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:44:10 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:45:43 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:45:54 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:46:43 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:47:23 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:48:01 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:48:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:49:07 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:49:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:49:37 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:50:05 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:50:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:51:04 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:51:24 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:51:44 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:51:59 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:52:25 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:52:43 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:53:10 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:53:26 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:54:00 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:54:26 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:55:17 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:55:42 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:55:47 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:56:18 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:56:39 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:57:04 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:57:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:58:05 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:58:31 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:59:04 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 07:59:34 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:00:07 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:00:33 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:00:57 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:01:12 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:01:42 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:02:03 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:02:36 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:03:11 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:03:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:04:35 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:05:03 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:05:34 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:06:19 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:06:47 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:07:13 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:07:41 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:08:07 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:08:48 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:09:10 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:09:35 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:10:07 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:10:34 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:10:52 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:11:16 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:11:36 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:12:07 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:12:28 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:12:53 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:13:13 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:13:38 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:13:56 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:14:24 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:14:40 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:15:10 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:15:31 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:16:04 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:16:20 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:16:47 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:17:02 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:17:20 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:17:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:18:29 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:18:45 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:19:39 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:19:45 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:19:55 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:14 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:20 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:33 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:38 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:44 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:51 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:20:57 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:21:07 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:21:19 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:21:27 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:21:38 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:21:44 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:24:13 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:48:03 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:48:20 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:49:53 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 08:49:53 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 08:49:53 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 08:50:08 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 08:50:08 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 08:50:08 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 08:50:17 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 08:50:17 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 08:50:17 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 08:50:41 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 198
+178.33.103.68 - 2013-10-29 08:50:49 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 198
+178.33.103.68 - 2013-10-29 08:50:55 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 198
+178.33.103.132 - 2013-10-29 08:51:21 - 4 - No entry found for login `tresorier@osgeo.asso.fr`
+178.33.103.68 - 2013-10-29 08:51:37 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:52:08 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:52:32 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-10-29 08:55:15 - 4 - PHP Warning: Invalid argument supplied for foreach() in /homez.504/osgeo/www/galette/plugins/galette-plugin-paypal/classes/paypal-history.class.php on line 167
+178.33.103.68 - 2013-10-29 09:01:53 - 4 - PHP Warning: Invalid argument supplied for foreach() in /homez.504/osgeo/www/galette/plugins/galette-plugin-paypal/classes/paypal-history.class.php on line 167
+178.33.103.68 - 2013-10-29 11:12:22 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 198
+178.33.103.68 - 2013-10-29 11:12:50 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 198
+178.33.103.68 - 2013-10-29 11:16:33 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:16:33 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:16:34 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 11:17:01 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:01 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:01 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 11:17:10 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:10 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:10 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 11:17:27 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:27 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:27 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 11:17:37 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:37 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:37 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 11:17:43 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:43 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:17:43 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 11:37:18 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:37:18 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 89
+178.33.103.68 - 2013-10-29 11:37:18 - 3 - An error occured adding dynamic translation for `` | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'en_US' for key 'PRIMARY'
+178.33.103.68 - 2013-10-29 11:38:00 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 198
+178.33.103.68 - 2013-10-29 11:38:40 - 5 - PHP Notice: Trying to get property of non-object in /homez.504/osgeo/www/galette/includes/i18n.inc.php on line 198
+178.33.103.4 - 2013-10-29 15:48:35 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 15:50:51 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 15:51:12 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 15:53:12 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 19:11:09 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 19:11:33 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.4 - 2013-10-29 19:14:29 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.132 - 2013-10-29 21:24:45 - 4 - PHP Warning: Invalid argument supplied for foreach() in /homez.504/osgeo/www/galette/plugins/galette-plugin-paypal/classes/paypal-history.class.php on line 167
+178.33.103.132 - 2013-10-29 21:41:13 - 4 - PHP Warning: Invalid argument supplied for foreach() in /homez.504/osgeo/www/galette/plugins/galette-plugin-paypal/classes/paypal-history.class.php on line 167
+178.33.103.132 - 2013-10-29 21:42:30 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.132 - 2013-10-29 21:42:46 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438

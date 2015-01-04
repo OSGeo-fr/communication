@@ -1,0 +1,12 @@
+127.0.0.1 - 2013-10-28 22:58:50 - 4 - No entry found for login `admin`
+127.0.0.1 - 2013-10-28 22:59:53 - 3 - Something went wrong :'( | SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`galette`.`galette_adherents`, CONSTRAINT `galette_adherents_ibfk_1` FOREIGN KEY (`id_statut`) REFERENCES `galette_statuts` (`id_statut`))
+#0 /home/simon/www/osgeo-fr/galette/galette/includes/Zend-1.12.3/Zend/Db/Statement.php(303): Zend_Db_Statement_Pdo->_execute(Array)
+#1 /home/simon/www/osgeo-fr/galette/galette/includes/Zend-1.12.3/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#2 /home/simon/www/osgeo-fr/galette/galette/includes/Zend-1.12.3/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('INSERT INTO `ga...', Array)
+#3 /home/simon/www/osgeo-fr/galette/galette/includes/Zend-1.12.3/Zend/Db/Adapter/Abstract.php(576): Zend_Db_Adapter_Pdo_Abstract->query('INSERT INTO `ga...', Array)
+#4 /home/simon/www/osgeo-fr/galette/galette/lib/Galette/Entity/Adherent.php(1154): Zend_Db_Adapter_Abstract->insert('galette_adheren...', Array)
+#5 /home/simon/www/osgeo-fr/galette/galette/lib/Galette/IO/CsvIn.php(336): Galette\Entity\Adherent->store()
+#6 /home/simon/www/osgeo-fr/galette/galette/lib/Galette/IO/CsvIn.php(191): Galette\IO\CsvIn->_storeMembers('galette_import_...')
+#7 /home/simon/www/osgeo-fr/galette/galette/import.php(107): Galette\IO\CsvIn->import('galette_import_...', Array, false)
+#8 {main}
+127.0.0.1 - 2013-10-28 22:59:53 - 3 - [Galette\IO\CsvIn] Une erreur est survenue lors de l'enregistrement de l'adhérent ligne 1 (MUSQUET Gaël) :

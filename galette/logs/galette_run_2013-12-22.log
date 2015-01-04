@@ -1,0 +1,2 @@
+178.33.103.68 - 2013-12-22 11:36:49 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2013-12-22 11:37:30 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438

@@ -1,0 +1,7 @@
+127.0.0.1 - 2013-10-23 21:52:06 - 4 - PHP Warning: Invalid argument supplied for foreach() in /home/simon/www/osgeo-fr/galette/galette/lib/Galette/Core/Mailing.php on line 116
+127.0.0.1 - 2013-10-23 21:56:59 - 4 - [Galette\Filters\AdvancedMembersList|Pagination] Value for field `counter` should be a positive integer - (NULL) given
+127.0.0.1 - 2013-10-23 21:56:59 - 4 - [MembersList] Value for property `field_filter` should be an integer (NULL given)
+127.0.0.1 - 2013-10-23 21:56:59 - 4 - [MembersList] Value for property `membership_filter` should be an integer (NULL given)
+127.0.0.1 - 2013-10-23 21:56:59 - 4 - [MembersList] Value for property `account_status_filter` should be an integer (NULL given)
+127.0.0.1 - 2013-10-23 21:56:59 - 4 - [MembersList] Value for group filter should be an integer (NULL given
+127.0.0.1 - 2013-10-23 21:56:59 - 4 - [MembersList] Value for property `unreachable` should be an array (NULL given)

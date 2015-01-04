@@ -1,0 +1,5 @@
+178.33.103.4 - 2014-04-17 06:31:35 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2014-04-17 15:57:37 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2014-04-17 15:58:21 - 4 - PHP Warning: Variable passed to each() is not an array or object in /homez.504/osgeo/www/galette/lib/Galette/Entity/DynamicFields.php on line 438
+178.33.103.68 - 2014-04-17 15:58:36 - 4 - Passwords mismatch for login `altermap`
+178.33.103.68 - 2014-04-17 15:58:45 - 4 - Passwords mismatch for login `altermap`
